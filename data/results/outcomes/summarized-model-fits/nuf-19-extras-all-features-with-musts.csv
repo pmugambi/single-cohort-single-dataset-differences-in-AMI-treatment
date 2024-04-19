@@ -1,0 +1,18 @@
+,variable,odds-ratio,coef,p-value,or ci low,or ci high
+0,non_stemi?,1.239,0.214,0.32099,0.812,1.891
+1,inferior_posterior_mi?,1.696,0.528,0.03492,1.038,2.772
+2,received_combined_therapy_day1?,0.583,-0.54,0.01001,0.386,0.879
+3,received_procedure?,0.549,-0.6,0.41539,0.129,2.326
+4,received_pain_med?,2.042,0.714,0.11151,0.848,4.919
+5,insurance_medicaid,0.683,-0.381,0.15366,0.405,1.153
+6,insurance_medicare,0.46,-0.777,0.00232,0.279,0.758
+7,non_surgical_procedure?,2.894,1.063,0.09147,0.842,9.943
+8,aspirin?,0.569,-0.563,0.31096,0.192,1.693
+9,received_statin?,2.263,0.817,0.04846,1.006,5.093
+10,c-shock?,0.588,-0.531,0.03971,0.354,0.975
+11,admit_duration(days),0.793,-0.232,0.0,0.723,0.87
+12,gender_m,1.081,0.078,0.7211,0.706,1.655
+13,received_anti-platelet?,0.484,-0.726,0.02646,0.255,0.919
+14,surgical_procedure?,0.409,-0.894,2e-05,0.271,0.617
+15,white?_edited_no,0.96,-0.041,0.88876,0.543,1.698
+16,white?_edited_yes,0.88,-0.127,0.52893,0.592,1.309

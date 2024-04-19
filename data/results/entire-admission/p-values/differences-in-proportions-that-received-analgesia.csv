@@ -1,0 +1,13 @@
+,treatment,conditioned-on,attribute,p-value
+0,all-analgesics,,sex,0.33761888837552656
+1,all-analgesics,,race,0.38661775116528085
+2,all-analgesics,surgical-procedures,sex,0.991917440241452
+3,all-analgesics,surgical-procedures,race,0.30289289891089805
+4,all-analgesics,non-surgical-procedures,sex,0.163668666962894
+5,all-analgesics,non-surgical-procedures,race,0.36552502884853694
+6,narcotics,,sex,0.0352677831348788
+7,narcotics,,race,0.4181510325371259
+8,narcotics,surgical-procedures,sex,0.7328192258903229
+9,narcotics,surgical-procedures,race,0.4239260745560483
+10,narcotics,non-surgical-procedures,sex,0.02372670816115954
+11,narcotics,non-surgical-procedures,race,0.3220472773375917

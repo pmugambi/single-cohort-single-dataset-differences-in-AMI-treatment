@@ -1,0 +1,4 @@
+ROW_ID,SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,icd9_code_1,short_title,long_title
+525132,71811,147846,2,570,570,Acute necrosis of liver,Acute and subacute necrosis of liver
+599749,88731,122595,11,5715,5715,Cirrhosis of liver NOS,Cirrhosis of liver without mention of alcohol
+154282,13767,148914,6,570,570,Acute necrosis of liver,Acute and subacute necrosis of liver

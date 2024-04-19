@@ -1,0 +1,21 @@
+{
+  "acc": 0.8233082706766918,
+  "auc": 0.8685732856678583,
+  "conf-matrix": [
+    [
+      54,
+      31
+    ],
+    [
+      16,
+      165
+    ]
+  ],
+  "coefs": "{\"non_stemi?\":0.2142127139,\"inferior_posterior_mi?\":0.5284784831,\"received_combined_therapy_day1?\":-0.5402430233,\"received_procedure?\":-0.6002435932,\"received_pain_med?\":0.7138990272,\"insurance_medicaid\":-0.3808017669,\"insurance_medicare\":-0.7769689838,\"non_surgical_procedure?\":1.0627203489,\"aspirin?\":-0.5631511598,\"received_statin?\":0.816691831,\"c-shock?\":-0.531206773,\"admit_duration(days)\":-0.232061981,\"gender_m\":0.077594684,\"received_anti-platelet?\":-0.7261202274,\"surgical_procedure?\":-0.8940499219,\"white?_edited_no\":-0.0406940885,\"white?_edited_yes\":-0.1272812549}",
+  "p-values": "{\"non_stemi?\":0.320992299,\"inferior_posterior_mi?\":0.0349233447,\"received_combined_therapy_day1?\":0.0100079494,\"received_procedure?\":0.4153937617,\"received_pain_med?\":0.1115073741,\"insurance_medicaid\":0.1536557389,\"insurance_medicare\":0.0023158842,\"non_surgical_procedure?\":0.0914688746,\"aspirin?\":0.310959046,\"received_statin?\":0.0484625529,\"c-shock?\":0.0397139819,\"admit_duration(days)\":0.0000008619,\"gender_m\":0.7211009141,\"received_anti-platelet?\":0.0264608586,\"surgical_procedure?\":0.000019993,\"white?_edited_no\":0.8887623892,\"white?_edited_yes\":0.5289284191}",
+  "prsquared": 0.34591247727922814,
+  "llf": -109.00806719740093,
+  "llr": 115.29726300487968,
+  "llr-pvalue": 4.382252015098855e-17,
+  "confidence-intervals": "{\"0\":{\"non_stemi?\":-0.2088429156,\"inferior_posterior_mi?\":0.0374031202,\"received_combined_therapy_day1?\":-0.9513610407,\"received_procedure?\":-2.0447427812,\"received_pain_med?\":-0.1653071105,\"insurance_medicaid\":-0.9039239605,\"insurance_medicare\":-1.2768455713,\"non_surgical_procedure?\":-0.1714408673,\"aspirin?\":-1.6525147891,\"received_statin?\":0.0055152037,\"c-shock?\":-1.0374256207,\"admit_duration(days)\":-0.324492853,\"gender_m\":-0.3484220365,\"received_anti-platelet?\":-1.3673665497,\"surgical_procedure?\":-1.3049100171,\"white?_edited_no\":-0.610928736,\"white?_edited_yes\":-0.5234848466},\"1\":{\"non_stemi?\":0.6372683434,\"inferior_posterior_mi?\":1.019553846,\"received_combined_therapy_day1?\":-0.129125006,\"received_procedure?\":0.8442555948,\"received_pain_med?\":1.5931051648,\"insurance_medicaid\":0.1423204267,\"insurance_medicare\":-0.2770923963,\"non_surgical_procedure?\":2.2968815652,\"aspirin?\":0.5262124695,\"received_statin?\":1.6278684583,\"c-shock?\":-0.0249879253,\"admit_duration(days)\":-0.1396311091,\"gender_m\":0.5036114045,\"received_anti-platelet?\":-0.084873905,\"surgical_procedure?\":-0.4831898268,\"white?_edited_no\":0.5295405589,\"white?_edited_yes\":0.2689223369}}"
+}

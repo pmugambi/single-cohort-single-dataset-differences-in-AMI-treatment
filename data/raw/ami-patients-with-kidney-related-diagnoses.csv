@@ -1,0 +1,64 @@
+ROW_ID,SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,icd9_code_1,short_title,long_title
+46153,4113,176856,3,99681,99681,Compl kidney transplant,Complications of transplanted kidney
+46158,4113,176856,8,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+141477,12564,115411,3,40391,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+157795,14102,188173,4,V420,V420,Kidney transplant status,Kidney replaced by transplant
+97501,8734,104139,2,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+97506,8734,104139,7,40391,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+97512,8734,107983,4,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+97513,8734,107983,5,40301,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease"
+266383,23840,185578,4,V420,V420,Kidney transplant status,Kidney replaced by transplant
+319354,28192,182204,4,40301,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease"
+240490,21538,105011,3,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+240492,21538,105011,5,40391,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+240505,21538,105011,18,28521,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease
+312608,27682,107046,7,40391,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+43096,3876,179743,5,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+163653,14634,174412,2,99681,99681,Compl kidney transplant,Complications of transplanted kidney
+163655,14634,174412,4,40391,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+316018,27962,120369,8,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+266791,23876,139390,2,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+260538,23371,177454,2,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+260542,23371,177454,6,5859,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified"
+260544,23371,177454,8,40390,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+153181,13648,112926,2,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+369449,32084,178430,8,40390,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+369450,32084,178430,9,5859,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified"
+153222,13653,124093,4,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+153224,13653,124093,6,40391,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+12899,1113,128609,9,5845,5845,"Ac kidny fail, tubr necr",Acute kidney failure with lesion of tubular necrosis
+12903,1113,128609,13,40391,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+540261,75360,117734,2,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+244076,21870,111705,8,5845,5845,"Ac kidny fail, tubr necr",Acute kidney failure with lesion of tubular necrosis
+7224,629,165308,5,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+172541,15488,176770,2,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+175377,15763,105221,6,99681,99681,Compl kidney transplant,Complications of transplanted kidney
+175378,15763,105221,7,5845,5845,"Ac kidny fail, tubr necr",Acute kidney failure with lesion of tubular necrosis
+175392,15763,105221,21,28521,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease
+599740,88731,122595,2,5845,5845,"Ac kidny fail, tubr necr",Acute kidney failure with lesion of tubular necrosis
+599751,88731,122595,13,40390,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+599752,88731,122595,14,5859,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified"
+297163,26532,167088,2,40391,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+297170,26532,167088,9,5839,5839,Nephritis NOS,"Nephritis and nephropathy, not specified as acute or chronic, with unspecified pathological lesion in kidney"
+201412,18088,191740,2,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+201415,18088,191740,5,5939,5939,Renal & ureteral dis NOS,Unspecified disorder of kidney and ureter
+244798,21946,175626,2,V420,V420,Kidney transplant status,Kidney replaced by transplant
+154284,13767,148914,8,5845,5845,"Ac kidny fail, tubr necr",Acute kidney failure with lesion of tubular necrosis
+239213,21447,110393,4,40391,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+239215,21447,110393,6,28521,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease
+122879,10954,119548,4,99681,99681,Compl kidney transplant,Complications of transplanted kidney
+122883,10954,119548,8,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+122893,10954,119548,18,28521,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease
+122914,10954,152377,7,99681,99681,Compl kidney transplant,Complications of transplanted kidney
+122915,10954,152377,8,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+122917,10954,152377,10,40391,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+129050,11472,142545,5,V420,V420,Kidney transplant status,Kidney replaced by transplant
+140887,12508,177115,4,5859,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified"
+140888,12508,177115,5,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+140889,12508,177115,6,99681,99681,Compl kidney transplant,Complications of transplanted kidney
+140892,12508,177115,9,40390,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+304143,27104,187894,2,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+297671,26595,189778,2,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+280138,25060,145509,7,5939,5939,Renal & ureteral dis NOS,Unspecified disorder of kidney and ureter
+146476,13033,147301,3,40301,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease"
+188169,16888,182362,11,5849,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"

@@ -1,0 +1,1730 @@
+row_id,subject_id,hadm_id,seq_num,icd9_code,short_title,long_title
+112347,29186,170284,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+112348,29186,170284,2,3403,Reopen thoracotomy site,Reopening of recent thoracotomy site
+112349,29186,170284,3,3761,Pulsation balloon implan,Implant of pulsation balloon
+112350,29186,170284,4,8960,Cnt intraart bld gas mon,Continuous intra-arterial blood gas monitoring
+112351,29186,170284,5,8960,Cnt intraart bld gas mon,Continuous intra-arterial blood gas monitoring
+112352,29186,170284,6,3722,Left heart cardiac cath,Left heart cardiac catheterization
+112353,29186,170284,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+112354,29186,170284,8,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+112355,29186,170284,9,9744,Nonop remov hrt asst sys,Nonoperative removal of heart assist system
+112356,29186,170284,10,9904,Packed cell transfusion,Transfusion of packed cells
+112357,29186,170284,11,9905,Platelet transfusion,Transfusion of platelets
+112358,29186,170284,12,9906,Coag factor transfusion,Transfusion of coagulation factors
+112359,29186,170284,13,9907,Serum transfusion NEC,Transfusion of other serum
+136271,2563,137393,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+136272,2563,137393,2,3722,Left heart cardiac cath,Left heart cardiac catheterization
+136273,2563,137393,3,3611,Aortocor bypas-1 cor art,(Aorto)coronary bypass of one coronary artery
+136274,2563,137393,4,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+136275,2563,137393,5,8960,Cnt intraart bld gas mon,Continuous intra-arterial blood gas monitoring
+136276,2563,137393,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+136277,2563,137393,7,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+35506,4614,153831,2,3722,Left heart cardiac cath,Left heart cardiac catheterization
+35507,4614,153831,3,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+35508,4614,153831,4,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+39499,10246,112882,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+39500,10246,112882,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+39501,10246,112882,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+39502,10246,112882,5,3778,Inser temp pacemaker sys,Insertion of temporary transvenous pacemaker system
+39503,10246,112882,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+115316,29191,124964,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+115317,29191,124964,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+115318,29191,124964,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+115319,29191,124964,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+115320,29191,124964,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+115321,29191,124964,6,0045,Insert 1 vascular stent,Insertion of one vascular stent
+115322,29191,124964,7,0040,Procedure-one vessel,Procedure on single vessel
+115323,29191,124964,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+68707,9992,115338,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+68708,9992,115338,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+68709,9992,115338,4,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+68710,9992,115338,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+68711,9992,115338,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+68712,9992,115338,7,8964,Pulmon art wedge monitor,Pulmonary artery wedge monitoring
+102846,10506,147087,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+102847,10506,147087,2,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+102848,10506,147087,3,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+102849,10506,147087,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+102850,10506,147087,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+102851,10506,147087,6,0046,Insert 2 vascular stents,Insertion of two vascular stents
+102852,10506,147087,7,0042,Procedure-three vessels,Procedure on three vessels
+102853,10506,147087,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+102854,10506,147087,9,9744,Nonop remov hrt asst sys,Nonoperative removal of heart assist system
+99640,17931,156535,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+99641,17931,156535,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+99642,17931,156535,4,3778,Inser temp pacemaker sys,Insertion of temporary transvenous pacemaker system
+99643,17931,156535,5,8842,Contrast aortogram,Aortography
+99644,17931,156535,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+51449,14864,175255,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+51450,14864,175255,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+51451,14864,175255,4,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+51452,14864,175255,5,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+51453,14864,175255,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+98401,4113,176856,1,4516,Egd with closed biopsy,Esophagogastroduodenoscopy [EGD] with closed biopsy
+98402,4113,176856,2,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+149915,26897,177127,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+149916,26897,177127,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+149917,26897,177127,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+149918,26897,177127,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+149919,26897,177127,5,0045,Insert 1 vascular stent,Insertion of one vascular stent
+149920,26897,177127,6,0040,Procedure-one vessel,Procedure on single vessel
+149921,26897,177127,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+149922,26897,177127,8,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+149923,26897,177127,9,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+149924,26897,177127,10,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+96572,12818,127520,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+96573,12818,127520,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+96574,12818,127520,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+59909,25106,148077,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+59910,25106,148077,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+59911,25106,148077,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+8977,21267,149523,1,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+8978,21267,149523,2,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+8979,21267,149523,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+8980,21267,149523,4,3761,Pulsation balloon implan,Implant of pulsation balloon
+8981,21267,149523,5,3766,Implantable hrt assist,Insertion of implantable heart assist system
+8982,21267,149523,6,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+8983,21267,149523,7,3952,Aneurysm repair NEC,Other repair of aneurysm
+8984,21267,149523,8,8857,Coronary arteriogram NEC,Other and unspecified coronary arteriography
+8985,21267,149523,9,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+38222,12564,115411,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+38223,12564,115411,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+38224,12564,115411,4,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+38225,12564,115411,5,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+38226,12564,115411,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+38227,12564,115411,7,3995,Hemodialysis,Hemodialysis
+43242,2326,136909,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+43243,2326,136909,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+43244,2326,136909,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+43245,2326,136909,5,3964,Intraop cardiac pacemak,Intraoperative cardiac pacemaker
+43247,2326,136909,7,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+43248,2326,136909,8,3722,Left heart cardiac cath,Left heart cardiac catheterization
+43249,2326,136909,9,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+43250,2326,136909,10,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+11517,3606,170079,1,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+11519,3606,170079,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+11520,3606,170079,4,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+11521,3606,170079,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+44158,4374,159305,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+44159,4374,159305,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+44160,4374,159305,4,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+44161,4374,159305,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+44842,4374,159305,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+27832,14102,188173,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+27833,14102,188173,2,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+27834,14102,188173,3,9960,Cardiopulm resuscita NOS,"Cardiopulmonary resuscitation, not otherwise specified"
+27836,14102,188173,5,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+27837,14102,188173,6,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+27838,14102,188173,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+27839,14102,188173,8,8842,Contrast aortogram,Aortography
+27840,14102,188173,9,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+229339,77847,139188,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+229340,77847,139188,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+229341,77847,139188,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+229342,77847,139188,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+229343,77847,139188,5,0045,Insert 1 vascular stent,Insertion of one vascular stent
+229344,77847,139188,6,0040,Procedure-one vessel,Procedure on single vessel
+103189,24,161859,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+103190,24,161859,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+103191,24,161859,4,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+103192,24,161859,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+103193,24,161859,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+35,20248,151412,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+36,20248,151412,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+37,20248,151412,4,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+38,20248,151412,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+39,20248,151412,6,3964,Intraop cardiac pacemak,Intraoperative cardiac pacemaker
+132793,23064,112135,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+132794,23064,112135,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+132795,23064,112135,3,0045,Insert 1 vascular stent,Insertion of one vascular stent
+132796,23064,112135,4,0041,Procedure-two vessels,Procedure on two vessels
+132797,23064,112135,5,3722,Left heart cardiac cath,Left heart cardiac catheterization
+132798,23064,112135,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+132799,23064,112135,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+85290,6170,162681,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+85291,6170,162681,2,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+85292,6170,162681,3,9744,Nonop remov hrt asst sys,Nonoperative removal of heart assist system
+85293,6170,162681,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+85294,6170,162681,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+85295,6170,162681,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+85296,6170,162681,7,4311,Percu endosc gastrostomy,Percutaneous [endoscopic] gastrostomy [PEG]
+85297,6170,162681,8,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+85298,6170,162681,9,0042,Procedure-three vessels,Procedure on three vessels
+85299,6170,162681,10,0048,Insert 4+ vasculr stents,Insertion of four or more vascular stents
+85300,6170,162681,11,9962,Heart countershock NEC,Other electric countershock of heart
+85301,6170,162681,12,966,Entral infus nutrit sub,Enteral infusion of concentrated nutritional substances
+85302,6170,162681,13,9915,Parent infus nutrit sub,Parenteral infusion of concentrated nutritional substances
+85303,6170,162681,14,0017,Infusion of vasopressor,Infusion of vasopressor agent
+85304,6170,162681,15,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+85305,6170,162681,16,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+11110,13341,145152,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+11111,13341,145152,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+11112,13341,145152,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+11113,13341,145152,5,3778,Inser temp pacemaker sys,Insertion of temporary transvenous pacemaker system
+11114,13341,145152,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+59830,13853,127602,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+59831,13853,127602,2,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+59833,13853,127602,4,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+59834,13853,127602,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+59835,13853,127602,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+59836,13853,127602,7,9904,Packed cell transfusion,Transfusion of packed cells
+143745,18719,168676,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+143746,18719,168676,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+143747,18719,168676,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+143748,18719,168676,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+143749,18719,168676,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+143750,18719,168676,6,0045,Insert 1 vascular stent,Insertion of one vascular stent
+143751,18719,168676,7,0040,Procedure-one vessel,Procedure on single vessel
+39887,21791,184645,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+39888,21791,184645,3,3721,Rt heart cardiac cath,Right heart cardiac catheterization
+39889,21791,184645,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+39890,21791,184645,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+27010,23840,185578,1,3611,Aortocor bypas-1 cor art,(Aorto)coronary bypass of one coronary artery
+27011,23840,185578,2,3722,Left heart cardiac cath,Left heart cardiac catheterization
+27012,23840,185578,3,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+27013,23840,185578,4,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+27014,23840,185578,5,3761,Pulsation balloon implan,Implant of pulsation balloon
+27015,23840,185578,6,9744,Nonop remov hrt asst sys,Nonoperative removal of heart assist system
+27016,23840,185578,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+27017,23840,185578,8,3721,Rt heart cardiac cath,Right heart cardiac catheterization
+162754,28192,182204,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+162755,28192,182204,2,3612,Aortocor bypas-2 cor art,(Aorto)coronary bypass of two coronary arteries
+162756,28192,182204,3,8622,Exc wound debridement,"Excisional debridement of wound, infection, or burn"
+162757,28192,182204,4,8960,Cnt intraart bld gas mon,Continuous intra-arterial blood gas monitoring
+162758,28192,182204,5,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+162759,28192,182204,6,5498,Peritoneal dialysis,Peritoneal dialysis
+162760,28192,182204,7,9904,Packed cell transfusion,Transfusion of packed cells
+28356,22049,194845,1,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+28358,22049,194845,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+28359,22049,194845,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+132873,21538,105011,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+132874,21538,105011,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+132875,21538,105011,3,0041,Procedure-two vessels,Procedure on two vessels
+132876,21538,105011,4,0046,Insert 2 vascular stents,Insertion of two vascular stents
+132877,21538,105011,5,370,Pericardiocentesis,Pericardiocentesis
+132878,21538,105011,6,3722,Left heart cardiac cath,Left heart cardiac catheterization
+132879,21538,105011,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+132880,21538,105011,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+132881,21538,105011,9,3895,Ven cath renal dialysis,Venous catheterization for renal dialysis
+132882,21538,105011,10,3995,Hemodialysis,Hemodialysis
+132883,21538,105011,11,9604,Insert endotracheal tube,Insertion of endotracheal tube
+132884,21538,105011,12,9672,Cont inv mec ven 96+ hrs,Continuous invasive mechanical ventilation for 96 consecutive hours or more
+132885,21538,105011,13,9904,Packed cell transfusion,Transfusion of packed cells
+132886,21538,105011,14,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+132887,21538,105011,15,966,Entral infus nutrit sub,Enteral infusion of concentrated nutritional substances
+110741,27682,107046,1,3614,Aortcor bypas-4+ cor art,(Aorto)coronary bypass of four or more coronary arteries
+110742,27682,107046,2,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+110743,27682,107046,3,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+110744,27682,107046,4,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+110745,27682,107046,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+110746,27682,107046,6,3895,Ven cath renal dialysis,Venous catheterization for renal dialysis
+110747,27682,107046,7,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+110748,27682,107046,8,3995,Hemodialysis,Hemodialysis
+110749,27682,107046,9,3404,Insert intercostal cath,Insertion of intercostal catheter for drainage
+54627,3876,179743,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+54629,3876,179743,3,3612,Aortocor bypas-2 cor art,(Aorto)coronary bypass of two coronary arteries
+54630,3876,179743,4,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+54631,3876,179743,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+54632,3876,179743,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+54633,3876,179743,7,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+54634,3876,179743,8,9904,Packed cell transfusion,Transfusion of packed cells
+54635,3876,179743,9,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+54636,3876,179743,10,9604,Insert endotracheal tube,Insertion of endotracheal tube
+54637,3876,179743,11,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+54638,3876,179743,12,9907,Serum transfusion NEC,Transfusion of other serum
+48947,2343,197230,2,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+48948,2343,197230,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+48949,2343,197230,4,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+131528,6695,153356,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+131529,6695,153356,2,3612,Aortocor bypas-2 cor art,(Aorto)coronary bypass of two coronary arteries
+131530,6695,153356,3,3761,Pulsation balloon implan,Implant of pulsation balloon
+131531,6695,153356,4,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+131532,6695,153356,5,8960,Cnt intraart bld gas mon,Continuous intra-arterial blood gas monitoring
+131533,6695,153356,6,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+131534,6695,153356,7,3722,Left heart cardiac cath,Left heart cardiac catheterization
+131535,6695,153356,8,0041,Procedure-two vessels,Procedure on two vessels
+131536,6695,153356,9,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+131537,6695,153356,10,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+131538,6695,153356,11,9604,Insert endotracheal tube,Insertion of endotracheal tube
+131539,6695,153356,12,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+131540,6695,153356,13,3323,Other bronchoscopy,Other bronchoscopy
+131541,6695,153356,14,9744,Nonop remov hrt asst sys,Nonoperative removal of heart assist system
+131542,6695,153356,15,9904,Packed cell transfusion,Transfusion of packed cells
+131543,6695,153356,16,9905,Platelet transfusion,Transfusion of platelets
+79682,12839,138435,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+79683,12839,138435,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+79684,12839,138435,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+79685,12839,138435,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+79686,12839,138435,5,0045,Insert 1 vascular stent,Insertion of one vascular stent
+79687,12839,138435,6,0040,Procedure-one vessel,Procedure on single vessel
+107402,11816,138518,1,3612,Aortocor bypas-2 cor art,(Aorto)coronary bypass of two coronary arteries
+107403,11816,138518,2,3722,Left heart cardiac cath,Left heart cardiac catheterization
+107404,11816,138518,3,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+107405,11816,138518,4,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+107406,11816,138518,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+107407,11816,138518,6,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+142105,30248,135325,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+142106,30248,135325,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+142107,30248,135325,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+142108,30248,135325,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+142109,30248,135325,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+142110,30248,135325,6,0045,Insert 1 vascular stent,Insertion of one vascular stent
+142111,30248,135325,7,0040,Procedure-one vessel,Procedure on single vessel
+142112,30248,135325,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+142113,30248,135325,9,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+49790,8233,169832,3,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+49791,8233,169832,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+49792,8233,169832,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+49793,8233,169832,6,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+49794,8233,169832,7,9962,Heart countershock NEC,Other electric countershock of heart
+49795,8233,169832,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+49796,8233,169832,9,3722,Left heart cardiac cath,Left heart cardiac catheterization
+49797,8233,169832,10,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+49798,8233,169832,11,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+49799,8233,169832,12,3722,Left heart cardiac cath,Left heart cardiac catheterization
+49800,8233,169832,13,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+16661,554,196063,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+16662,554,196063,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+16664,554,196063,4,3722,Left heart cardiac cath,Left heart cardiac catheterization
+16665,554,196063,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+16666,554,196063,6,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+16667,554,196063,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+33426,554,174947,2,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+33427,554,174947,3,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+33428,554,174947,4,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+33429,554,174947,5,3722,Left heart cardiac cath,Left heart cardiac catheterization
+33430,554,174947,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+33431,554,174947,7,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+52259,14634,174412,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+52260,14634,174412,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+52261,14634,174412,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+52262,14634,174412,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+52263,14634,174412,6,9904,Packed cell transfusion,Transfusion of packed cells
+123683,21290,176151,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+123684,21290,176151,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+123685,21290,176151,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+123686,21290,176151,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+123687,21290,176151,5,0045,Insert 1 vascular stent,Insertion of one vascular stent
+123688,21290,176151,6,0040,Procedure-one vessel,Procedure on single vessel
+123689,21290,176151,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+123690,21290,176151,8,0044,Proc-vessel bifurcation,Procedure on vessel bifurcation
+199977,46634,183480,1,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+199978,46634,183480,2,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+199979,46634,183480,3,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+199980,46634,183480,4,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+27618,2604,173768,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+27619,2604,173768,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+27620,2604,173768,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+27621,2604,173768,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+27622,2604,173768,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+27623,2604,173768,7,9961,Atrial cardioversion,Atrial cardioversion
+428,9261,106934,3,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+429,9261,106934,4,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+430,9261,106934,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+431,9261,106934,6,3722,Left heart cardiac cath,Left heart cardiac catheterization
+432,9261,106934,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+433,9261,106934,8,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+434,9261,106934,9,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+2332,15917,162938,2,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+2333,15917,162938,3,3778,Inser temp pacemaker sys,Insertion of temporary transvenous pacemaker system
+2334,15917,162938,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+2335,15917,162938,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+11213,17966,194273,1,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+11214,17966,194273,2,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+11215,17966,194273,3,3619,Hrt revas byps anas NEC,Other bypass anastomosis for heart revascularization
+11216,17966,194273,4,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+11217,17966,194273,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+11218,17966,194273,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+36537,18223,115705,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+36538,18223,115705,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+36539,18223,115705,4,3778,Inser temp pacemaker sys,Insertion of temporary transvenous pacemaker system
+36540,18223,115705,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+36541,18223,115705,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+107736,29235,154824,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+107737,29235,154824,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+107738,29235,154824,3,0040,Procedure-one vessel,Procedure on single vessel
+107739,29235,154824,4,0046,Insert 2 vascular stents,Insertion of two vascular stents
+107740,29235,154824,5,3722,Left heart cardiac cath,Left heart cardiac catheterization
+107741,29235,154824,6,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+107742,29235,154824,7,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+107743,29235,154824,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+71649,53,155385,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+71650,53,155385,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+71651,53,155385,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+14246,12597,140802,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+14247,12597,140802,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+14248,12597,140802,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+14249,12597,140802,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+14250,12597,140802,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+9547,12853,191448,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+9548,12853,191448,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+9549,12853,191448,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+9550,12853,191448,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+9551,12853,191448,6,9910,Inject/inf thrombo agent,Injection or infusion of thrombolytic agent
+196947,79413,184497,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+196948,79413,184497,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+196949,79413,184497,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+196950,79413,184497,4,0045,Insert 1 vascular stent,Insertion of one vascular stent
+197606,79413,184497,5,0040,Procedure-one vessel,Procedure on single vessel
+197607,79413,184497,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+9242,12086,163261,1,3611,Aortocor bypas-1 cor art,(Aorto)coronary bypass of one coronary artery
+9243,12086,163261,2,3603,Open coronry angioplasty,Open chest coronary artery angioplasty
+9245,12086,163261,4,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+9246,12086,163261,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+9247,12086,163261,6,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+9248,12086,163261,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+9249,12086,163261,8,3778,Inser temp pacemaker sys,Insertion of temporary transvenous pacemaker system
+9250,12086,163261,9,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+86315,24376,135573,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+86316,24376,135573,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+86317,24376,135573,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+86318,24376,135573,4,0041,Procedure-two vessels,Procedure on two vessels
+86319,24376,135573,5,0045,Insert 1 vascular stent,Insertion of one vascular stent
+86320,24376,135573,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+27901,7993,185219,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+27902,7993,185219,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+27903,7993,185219,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+27904,7993,185219,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+27905,7993,185219,6,3778,Inser temp pacemaker sys,Insertion of temporary transvenous pacemaker system
+27906,7993,185219,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+119467,27962,120369,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+119468,27962,120369,2,3721,Rt heart cardiac cath,Right heart cardiac catheterization
+119469,27962,120369,3,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+119470,27962,120369,4,8842,Contrast aortogram,Aortography
+119471,27962,120369,5,9962,Heart countershock NEC,Other electric countershock of heart
+119472,27962,120369,6,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+119473,27962,120369,7,0045,Insert 1 vascular stent,Insertion of one vascular stent
+119474,27962,120369,8,0040,Procedure-one vessel,Procedure on single vessel
+119475,27962,120369,9,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+119476,27962,120369,10,2171,Clos reduction nasal fx,Closed reduction of nasal fracture
+119477,27962,120369,11,0881,Linear rep lid lacer,Linear repair of laceration of eyelid or eyebrow
+119478,27962,120369,12,3891,Arterial catheterization,Arterial catheterization
+119479,27962,120369,13,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+119480,27962,120369,14,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+119481,27962,120369,15,2751,Suture of lip laceration,Suture of laceration of lip
+119482,27962,120369,16,3324,Closed bronchial biopsy,Closed [endoscopic] biopsy of bronchus
+32166,17981,174389,2,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+32167,17981,174389,3,9962,Heart countershock NEC,Other electric countershock of heart
+32168,17981,174389,4,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+32169,17981,174389,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+32170,17981,174389,6,3964,Intraop cardiac pacemak,Intraoperative cardiac pacemaker
+32171,17981,174389,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+76175,8254,146023,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+76176,8254,146023,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+76177,8254,146023,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+76178,8254,146023,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+76179,8254,146023,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+76180,8254,146023,6,0045,Insert 1 vascular stent,Insertion of one vascular stent
+76181,8254,146023,7,0040,Procedure-one vessel,Procedure on single vessel
+88928,21568,150775,1,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+88929,21568,150775,2,9744,Nonop remov hrt asst sys,Nonoperative removal of heart assist system
+164418,23876,139390,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+164419,23876,139390,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+164420,23876,139390,3,0041,Procedure-two vessels,Procedure on two vessels
+164421,23876,139390,4,0045,Insert 1 vascular stent,Insertion of one vascular stent
+164422,23876,139390,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+164423,23876,139390,6,8857,Coronary arteriogram NEC,Other and unspecified coronary arteriography
+68213,17989,184201,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+68214,17989,184201,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+68215,17989,184201,4,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+68216,17989,184201,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+68217,17989,184201,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+68218,17989,184201,7,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+68219,17989,184201,8,9604,Insert endotracheal tube,Insertion of endotracheal tube
+68220,17989,184201,9,9904,Packed cell transfusion,Transfusion of packed cells
+26118,21573,150676,2,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+26119,21573,150676,3,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+26120,21573,150676,4,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+80346,11335,171028,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+80347,11335,171028,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+80348,11335,171028,3,0040,Procedure-one vessel,Procedure on single vessel
+80349,11335,171028,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+80350,11335,171028,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+80351,11335,171028,6,0045,Insert 1 vascular stent,Insertion of one vascular stent
+80352,11335,171028,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+11746,17736,159487,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+11747,17736,159487,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+11748,17736,159487,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+11749,17736,159487,5,3778,Inser temp pacemaker sys,Insertion of temporary transvenous pacemaker system
+11750,17736,159487,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+107031,27976,167196,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+107032,27976,167196,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+107033,27976,167196,3,0040,Procedure-one vessel,Procedure on single vessel
+107034,27976,167196,4,0046,Insert 2 vascular stents,Insertion of two vascular stents
+107035,27976,167196,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+107036,27976,167196,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+38477,77,142768,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+38478,77,142768,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+38479,77,142768,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+36627,77,142768,5,3964,Intraop cardiac pacemak,Intraoperative cardiac pacemaker
+13524,11597,190903,1,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+13525,11597,190903,2,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+109045,15181,156172,2,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+109046,15181,156172,3,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+108323,15181,156172,1,3722,Left heart cardiac cath,Left heart cardiac catheterization
+88390,20813,107114,1,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+88391,20813,107114,2,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+88392,20813,107114,3,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+111437,27213,122820,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+111438,27213,122820,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+111439,27213,122820,3,0046,Insert 2 vascular stents,Insertion of two vascular stents
+111440,27213,122820,4,0041,Procedure-two vessels,Procedure on two vessels
+111441,27213,122820,5,3722,Left heart cardiac cath,Left heart cardiac catheterization
+111442,27213,122820,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+44479,21582,133544,1,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+44480,21582,133544,2,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+44481,21582,133544,3,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+44482,21582,133544,4,3619,Hrt revas byps anas NEC,Other bypass anastomosis for heart revascularization
+44483,21582,133544,5,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+44484,21582,133544,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+44485,21582,133544,7,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+44486,21582,133544,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+146152,29774,151162,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+146153,29774,151162,2,3722,Left heart cardiac cath,Left heart cardiac catheterization
+146154,29774,151162,3,0040,Procedure-one vessel,Procedure on single vessel
+146155,29774,151162,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+191155,85583,113091,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+191156,85583,113091,2,0040,Procedure-one vessel,Procedure on single vessel
+191157,85583,113091,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+191158,85583,113091,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+191159,85583,113091,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+191160,85583,113091,6,3722,Left heart cardiac cath,Left heart cardiac catheterization
+191161,85583,113091,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+191162,85583,113091,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+33490,6224,108309,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+33491,6224,108309,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+33492,6224,108309,4,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+33493,6224,108309,5,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+33494,6224,108309,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+33495,6224,108309,7,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+33496,6224,108309,8,9604,Insert endotracheal tube,Insertion of endotracheal tube
+20416,14160,112513,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+20417,14160,112513,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+20419,14160,112513,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+20420,14160,112513,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+20421,14160,112513,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+20422,14160,112513,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+20423,14160,112513,8,9604,Insert endotracheal tube,Insertion of endotracheal tube
+20424,14160,112513,9,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+36216,13649,134658,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+36217,13649,134658,3,8857,Coronary arteriogram NEC,Other and unspecified coronary arteriography
+36218,13649,134658,4,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+152457,30290,111763,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+152458,30290,111763,2,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+152459,30290,111763,3,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+152460,30290,111763,4,0040,Procedure-one vessel,Procedure on single vessel
+152461,30290,111763,5,3722,Left heart cardiac cath,Left heart cardiac catheterization
+152462,30290,111763,6,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+152463,30290,111763,7,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+152464,30290,111763,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+152465,30290,111763,9,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+152466,30290,111763,10,9604,Insert endotracheal tube,Insertion of endotracheal tube
+152467,30290,111763,11,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+152468,30290,111763,12,0040,Procedure-one vessel,Procedure on single vessel
+152469,30290,111763,13,0047,Insert 3 vascular stents,Insertion of three vascular stents
+152470,30290,111763,14,3722,Left heart cardiac cath,Left heart cardiac catheterization
+152471,30290,111763,15,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+152472,30290,111763,16,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+152473,30290,111763,17,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+152474,30290,111763,18,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+152475,30290,111763,19,0040,Procedure-one vessel,Procedure on single vessel
+152476,30290,111763,20,0046,Insert 2 vascular stents,Insertion of two vascular stents
+152477,30290,111763,21,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+152478,30290,111763,22,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+152479,30290,111763,23,3722,Left heart cardiac cath,Left heart cardiac catheterization
+152480,30290,111763,24,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+152481,30290,111763,25,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+39817,6484,106119,1,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+39818,6484,106119,2,3722,Left heart cardiac cath,Left heart cardiac catheterization
+39819,6484,106119,3,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+39820,6484,106119,4,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+39821,6484,106119,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+39822,6484,106119,6,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+159047,32084,178430,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+159048,32084,178430,2,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+159049,32084,178430,3,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+159050,32084,178430,4,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+26217,13653,124093,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+26218,13653,124093,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+26219,13653,124093,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+26220,13653,124093,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+26221,13653,124093,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+26222,13653,124093,7,4525,Clos large bowel biopsy,Closed [endoscopic] biopsy of large intestine
+26223,13653,124093,8,4513,Sm bowel endoscopy NEC,Other endoscopy of small intestine
+26224,13653,124093,9,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+26225,13653,124093,10,9904,Packed cell transfusion,Transfusion of packed cells
+25897,21845,168241,1,311,Temporary tracheostomy,Temporary tracheostomy
+25899,21845,168241,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+25900,21845,168241,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+25901,21845,168241,5,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+25902,21845,168241,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+25903,21845,168241,7,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+25904,21845,168241,8,8964,Pulmon art wedge monitor,Pulmonary artery wedge monitoring
+25905,21845,168241,9,8968,Oth cardiac mon output,Monitoring of cardiac output by other technique
+25906,21845,168241,10,4311,Percu endosc gastrostomy,Percutaneous [endoscopic] gastrostomy [PEG]
+25907,21845,168241,11,9672,Cont inv mec ven 96+ hrs,Continuous invasive mechanical ventilation for 96 consecutive hours or more
+25908,21845,168241,12,9604,Insert endotracheal tube,Insertion of endotracheal tube
+25909,21845,168241,13,9915,Parent infus nutrit sub,Parenteral infusion of concentrated nutritional substances
+25910,21845,168241,14,9904,Packed cell transfusion,Transfusion of packed cells
+184549,44374,196473,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+184550,44374,196473,2,3722,Left heart cardiac cath,Left heart cardiac catheterization
+184551,44374,196473,3,3612,Aortocor bypas-2 cor art,(Aorto)coronary bypass of two coronary arteries
+184552,44374,196473,4,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+184553,44374,196473,5,8842,Contrast aortogram,Aortography
+184554,44374,196473,6,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+161138,32600,119757,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+161139,32600,119757,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+161140,32600,119757,3,0040,Procedure-one vessel,Procedure on single vessel
+161141,32600,119757,4,0045,Insert 1 vascular stent,Insertion of one vascular stent
+161142,32600,119757,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+161143,32600,119757,6,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+161144,32600,119757,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+161145,32600,119757,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+167651,45656,121552,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+167652,45656,121552,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+167653,45656,121552,3,0040,Procedure-one vessel,Procedure on single vessel
+167654,45656,121552,4,0046,Insert 2 vascular stents,Insertion of two vascular stents
+167655,45656,121552,5,3722,Left heart cardiac cath,Left heart cardiac catheterization
+167656,45656,121552,6,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+167657,45656,121552,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+52377,1113,128609,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+52379,1113,128609,3,4011,Lymphatic struct biopsy,Biopsy of lymphatic structure
+52380,1113,128609,4,9744,Nonop remov hrt asst sys,Nonoperative removal of heart assist system
+52381,1113,128609,5,966,Entral infus nutrit sub,Enteral infusion of concentrated nutritional substances
+52382,1113,128609,6,9915,Parent infus nutrit sub,Parenteral infusion of concentrated nutritional substances
+52383,1113,128609,7,0013,Inject/infus nesiritide,Injection or infusion of nesiritide
+52384,1113,128609,8,4311,Percu endosc gastrostomy,Percutaneous [endoscopic] gastrostomy [PEG]
+52385,1113,128609,9,3491,Thoracentesis,Thoracentesis
+52386,1113,128609,10,0017,Infusion of vasopressor,Infusion of vasopressor agent
+52387,1113,128609,11,2102,Post nasal pac for epist,Control of epistaxis by posterior (and anterior) packing
+52388,1113,128609,12,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+52389,1113,128609,13,0331,Spinal tap,Spinal tap
+52390,1113,128609,14,3142,Larygnoscopy/tracheoscop,Laryngoscopy and other tracheoscopy
+52391,1113,128609,15,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+52392,1113,128609,16,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+52393,1113,128609,17,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+52394,1113,128609,18,8842,Contrast aortogram,Aortography
+52395,1113,128609,19,8964,Pulmon art wedge monitor,Pulmonary artery wedge monitoring
+15181,11097,191421,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+15182,11097,191421,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+15184,11097,191421,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+15185,11097,191421,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+15186,11097,191421,6,540,Abdominal wall incision,Incision of abdominal wall
+15187,11097,191421,7,9672,Cont inv mec ven 96+ hrs,Continuous invasive mechanical ventilation for 96 consecutive hours or more
+15188,11097,191421,8,9604,Insert endotracheal tube,Insertion of endotracheal tube
+15189,11097,191421,9,9915,Parent infus nutrit sub,Parenteral infusion of concentrated nutritional substances
+92068,14425,197856,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+92069,14425,197856,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+92070,14425,197856,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+92071,14425,197856,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+64363,3674,115000,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+64364,3674,115000,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+64366,3674,115000,4,3722,Left heart cardiac cath,Left heart cardiac catheterization
+64367,3674,115000,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+64368,3674,115000,6,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+64369,3674,115000,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+64370,3674,115000,8,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+64372,3674,115000,10,3722,Left heart cardiac cath,Left heart cardiac catheterization
+64373,3674,115000,11,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+64374,3674,115000,12,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+64375,3674,115000,13,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+17375,12124,153733,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+17376,12124,153733,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+17377,12124,153733,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+17378,12124,153733,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+36662,23389,182846,2,3722,Left heart cardiac cath,Left heart cardiac catheterization
+36663,23389,182846,3,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+36664,23389,182846,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+36665,23389,182846,5,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+36666,23389,182846,6,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+36667,23389,182846,7,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+117113,23901,141777,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+117114,23901,141777,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+117115,23901,141777,3,0040,Procedure-one vessel,Procedure on single vessel
+117116,23901,141777,4,0046,Insert 2 vascular stents,Insertion of two vascular stents
+117117,23901,141777,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+117118,23901,141777,6,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+117119,23901,141777,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+117120,23901,141777,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+103235,22366,112996,1,3612,Aortocor bypas-2 cor art,(Aorto)coronary bypass of two coronary arteries
+103236,22366,112996,2,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+103237,22366,112996,3,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+103238,22366,112996,4,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+20098,1888,135123,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+20099,1888,135123,2,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+20100,1888,135123,3,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+187184,75360,117734,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+187185,75360,117734,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+187186,75360,117734,3,0045,Insert 1 vascular stent,Insertion of one vascular stent
+187187,75360,117734,4,0040,Procedure-one vessel,Procedure on single vessel
+187188,75360,117734,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+187189,75360,117734,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+187190,75360,117734,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+90210,867,184298,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+90211,867,184298,2,0114,Open brain biopsy,Open biopsy of brain
+90212,867,184298,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+90213,867,184298,4,0040,Procedure-one vessel,Procedure on single vessel
+76199,867,184298,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+76200,867,184298,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+76201,867,184298,7,9905,Platelet transfusion,Transfusion of platelets
+16409,8547,131849,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+16411,8547,131849,3,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+16412,8547,131849,4,3722,Left heart cardiac cath,Left heart cardiac catheterization
+16413,8547,131849,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+16414,8547,131849,6,3778,Inser temp pacemaker sys,Insertion of temporary transvenous pacemaker system
+16415,8547,131849,7,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+110111,14179,107108,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+110112,14179,107108,2,0040,Procedure-one vessel,Procedure on single vessel
+110113,14179,107108,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+110114,14179,107108,4,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+110115,14179,107108,5,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+110116,14179,107108,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+34450,21861,178948,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+34451,21861,178948,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+34452,21861,178948,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+34453,21861,178948,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+34454,21861,178948,6,9462,Alcohol detoxification,Alcohol detoxification
+102071,12902,196245,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+102072,12902,196245,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+102073,12902,196245,3,0040,Procedure-one vessel,Procedure on single vessel
+102074,12902,196245,4,0046,Insert 2 vascular stents,Insertion of two vascular stents
+102075,12902,196245,5,3721,Rt heart cardiac cath,Right heart cardiac catheterization
+102076,12902,196245,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+102077,12902,196245,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+16270,359,144265,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+16271,359,144265,3,3761,Pulsation balloon implan,Implant of pulsation balloon
+16272,359,144265,4,3721,Rt heart cardiac cath,Right heart cardiac catheterization
+16273,359,144265,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+16274,359,144265,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+16275,359,144265,7,3764,Remve ext hrt assist sys,Removal of external heart assist system(s) or device(s)
+52685,7783,100161,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+52686,7783,100161,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+52687,7783,100161,4,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+52688,7783,100161,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+52689,7783,100161,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+57122,24167,177010,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+57123,24167,177010,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+57124,24167,177010,4,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+57125,24167,177010,5,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+57126,24167,177010,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+92845,21352,119656,1,3612,Aortocor bypas-2 cor art,(Aorto)coronary bypass of two coronary arteries
+92847,21352,119656,3,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+92848,21352,119656,4,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+92849,21352,119656,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+92850,21352,119656,6,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+92851,21352,119656,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+92852,21352,119656,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+89591,14185,128357,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+89592,14185,128357,2,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+89593,14185,128357,3,3964,Intraop cardiac pacemak,Intraoperative cardiac pacemaker
+89594,14185,128357,4,9744,Nonop remov hrt asst sys,Nonoperative removal of heart assist system
+89595,14185,128357,5,9904,Packed cell transfusion,Transfusion of packed cells
+89596,14185,128357,6,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+3199,17515,100635,1,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+3200,17515,100635,2,3524,Opn/oth rep mitral valve,Open and other replacement of mitral valve
+3201,17515,100635,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+3202,17515,100635,4,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+3203,17515,100635,5,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+3204,17515,100635,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+3205,17515,100635,7,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+42801,14444,114251,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+42802,14444,114251,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+42803,14444,114251,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+42804,14444,114251,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+42805,14444,114251,6,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+42806,14444,114251,7,9634,Gastric tube irrigat NEC,Other irrigation of (naso-)gastric tube
+6277,19566,109795,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+6278,19566,109795,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+6279,19566,109795,4,8857,Coronary arteriogram NEC,Other and unspecified coronary arteriography
+6280,19566,109795,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+27717,21870,111705,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+27719,21870,111705,3,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+27720,21870,111705,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+27721,21870,111705,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+27722,21870,111705,6,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+27723,21870,111705,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+27724,21870,111705,8,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+48003,10607,188886,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+48005,10607,188886,3,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+48006,10607,188886,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+48007,10607,188886,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+48008,10607,188886,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+4517,2672,145958,1,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+4519,2672,145958,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+4520,2672,145958,4,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+4521,2672,145958,5,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+22195,14448,172699,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+22196,14448,172699,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+22197,14448,172699,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+22198,14448,172699,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+151393,30832,183218,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+151394,30832,183218,2,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+151395,30832,183218,3,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+151396,30832,183218,4,3722,Left heart cardiac cath,Left heart cardiac catheterization
+151397,30832,183218,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+151398,30832,183218,6,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+58208,19057,143002,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+58209,19057,143002,2,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+58210,19057,143002,3,3612,Aortocor bypas-2 cor art,(Aorto)coronary bypass of two coronary arteries
+58211,19057,143002,4,3761,Pulsation balloon implan,Implant of pulsation balloon
+58212,19057,143002,5,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+58213,19057,143002,6,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+58214,19057,143002,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+58215,19057,143002,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+5462,629,165308,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+5463,629,165308,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+5464,629,165308,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+5465,629,165308,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+37559,2166,161124,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+37560,2166,161124,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+37561,2166,161124,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+37562,2166,161124,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+115958,7798,144655,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+115959,7798,144655,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+115960,7798,144655,3,0045,Insert 1 vascular stent,Insertion of one vascular stent
+115961,7798,144655,4,0040,Procedure-one vessel,Procedure on single vessel
+115962,7798,144655,5,3722,Left heart cardiac cath,Left heart cardiac catheterization
+115963,7798,144655,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+132671,7798,140344,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+132672,7798,140344,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+132673,7798,140344,3,0040,Procedure-one vessel,Procedure on single vessel
+132674,7798,140344,4,0046,Insert 2 vascular stents,Insertion of two vascular stents
+132675,7798,140344,5,3722,Left heart cardiac cath,Left heart cardiac catheterization
+132676,7798,140344,6,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+132677,7798,140344,7,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+132678,7798,140344,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+42841,3448,109994,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+42842,3448,109994,3,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+42843,3448,109994,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+42844,3448,109994,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+42845,3448,109994,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+6651,7289,167026,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+6652,7289,167026,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+6653,7289,167026,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+6654,7289,167026,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+6655,7289,167026,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+38592,7289,156203,2,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+38593,7289,156203,3,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+38594,7289,156203,4,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+38595,7289,156203,5,3722,Left heart cardiac cath,Left heart cardiac catheterization
+38596,7289,156203,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+28009,21625,125622,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+28010,21625,125622,2,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+28012,21625,125622,4,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+28013,21625,125622,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+28014,21625,125622,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+28015,21625,125622,7,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+28016,21625,125622,8,9604,Insert endotracheal tube,Insertion of endotracheal tube
+28017,21625,125622,9,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+15032,23673,131463,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+15033,23673,131463,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+15034,23673,131463,4,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+15035,23673,131463,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+96606,17531,104010,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+96607,17531,104010,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+96608,17531,104010,4,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+80885,23675,125101,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+80886,23675,125101,2,3722,Left heart cardiac cath,Left heart cardiac catheterization
+80887,23675,125101,3,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+80888,23675,125101,4,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+80889,23675,125101,5,8960,Cnt intraart bld gas mon,Continuous intra-arterial blood gas monitoring
+80890,23675,125101,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+80891,23675,125101,7,9904,Packed cell transfusion,Transfusion of packed cells
+129921,16508,161304,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+129922,16508,161304,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+129923,16508,161304,3,0045,Insert 1 vascular stent,Insertion of one vascular stent
+129924,16508,161304,4,0040,Procedure-one vessel,Procedure on single vessel
+129925,16508,161304,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+129926,16508,161304,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+21389,25214,169652,1,3614,Aortcor bypas-4+ cor art,(Aorto)coronary bypass of four or more coronary arteries
+21390,25214,169652,2,3722,Left heart cardiac cath,Left heart cardiac catheterization
+21391,25214,169652,3,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+21392,25214,169652,4,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+21393,25214,169652,5,3761,Pulsation balloon implan,Implant of pulsation balloon
+21394,25214,169652,6,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+21395,25214,169652,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+21396,25214,169652,8,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+44545,6783,100757,1,3611,Aortocor bypas-1 cor art,(Aorto)coronary bypass of one coronary artery
+44546,6783,100757,2,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+44547,6783,100757,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+44548,6783,100757,4,3761,Pulsation balloon implan,Implant of pulsation balloon
+44549,6783,100757,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+44550,6783,100757,6,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+146902,28543,155441,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+146903,28543,155441,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+146904,28543,155441,3,3721,Rt heart cardiac cath,Right heart cardiac catheterization
+146905,28543,155441,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+146906,28543,155441,5,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+146907,28543,155441,6,0045,Insert 1 vascular stent,Insertion of one vascular stent
+146908,28543,155441,7,0040,Procedure-one vessel,Procedure on single vessel
+146909,28543,155441,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+146910,28543,155441,9,9962,Heart countershock NEC,Other electric countershock of heart
+126832,15488,176770,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+126833,15488,176770,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+126834,15488,176770,3,0045,Insert 1 vascular stent,Insertion of one vascular stent
+126835,15488,176770,4,0040,Procedure-one vessel,Procedure on single vessel
+126836,15488,176770,5,3722,Left heart cardiac cath,Left heart cardiac catheterization
+126837,15488,176770,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+126838,15488,176770,7,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+22700,14466,150784,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+22701,14466,150784,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+22702,14466,150784,4,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+22703,14466,150784,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+22704,14466,150784,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+96062,3203,138236,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+96063,3203,138236,2,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+96064,3203,138236,3,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+96065,3203,138236,4,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+96066,3203,138236,5,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+96067,3203,138236,6,3722,Left heart cardiac cath,Left heart cardiac catheterization
+96068,3203,138236,7,0040,Procedure-one vessel,Procedure on single vessel
+96069,3203,138236,8,0045,Insert 1 vascular stent,Insertion of one vascular stent
+96070,3203,138236,9,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+96071,3203,138236,10,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+96072,3203,138236,11,9904,Packed cell transfusion,Transfusion of packed cells
+96073,3203,138236,12,9905,Platelet transfusion,Transfusion of platelets
+96074,3203,138236,13,9907,Serum transfusion NEC,Transfusion of other serum
+202034,71811,147846,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+202035,71811,147846,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+202036,71811,147846,3,0045,Insert 1 vascular stent,Insertion of one vascular stent
+202037,71811,147846,4,0040,Procedure-one vessel,Procedure on single vessel
+202038,71811,147846,5,3722,Left heart cardiac cath,Left heart cardiac catheterization
+202039,71811,147846,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+34646,18308,187843,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+34647,18308,187843,3,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+34648,18308,187843,4,3722,Left heart cardiac cath,Left heart cardiac catheterization
+34649,18308,187843,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+34650,18308,187843,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+12621,19845,159139,1,311,Temporary tracheostomy,Temporary tracheostomy
+12622,19845,159139,2,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+12623,19845,159139,3,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+12624,19845,159139,4,3761,Pulsation balloon implan,Implant of pulsation balloon
+12625,19845,159139,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+12626,19845,159139,6,9962,Heart countershock NEC,Other electric countershock of heart
+12627,19845,159139,7,3402,Exploratory thoracotomy,Exploratory thoracotomy
+12628,19845,159139,8,3404,Insert intercostal cath,Insertion of intercostal catheter for drainage
+12629,19845,159139,9,4311,Percu endosc gastrostomy,Percutaneous [endoscopic] gastrostomy [PEG]
+175834,40837,177389,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+175835,40837,177389,2,8964,Pulmon art wedge monitor,Pulmonary artery wedge monitoring
+175836,40837,177389,3,0040,Procedure-one vessel,Procedure on single vessel
+175837,40837,177389,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+175838,40837,177389,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+175839,40837,177389,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+35629,21127,140221,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+35630,21127,140221,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+35631,21127,140221,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+35632,21127,140221,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+103134,7816,188222,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+103135,7816,188222,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+103136,7816,188222,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+103137,7816,188222,5,3891,Arterial catheterization,Arterial catheterization
+103138,7816,188222,6,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+103139,7816,188222,7,0331,Spinal tap,Spinal tap
+103140,7816,188222,8,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+103141,7816,188222,9,8914,Electroencephalogram,Electroencephalogram
+694,13192,175809,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+695,13192,175809,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+696,13192,175809,4,8854,Rt & lt heart angiocard,Combined right and left heart angiocardiography
+697,13192,175809,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+698,13192,175809,6,8842,Contrast aortogram,Aortography
+699,13192,175809,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+700,13192,175809,8,9604,Insert endotracheal tube,Insertion of endotracheal tube
+701,13192,175809,9,9672,Cont inv mec ven 96+ hrs,Continuous invasive mechanical ventilation for 96 consecutive hours or more
+93743,1417,105034,1,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+93744,1417,105034,2,9904,Packed cell transfusion,Transfusion of packed cells
+1904,24457,184834,1,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+1906,24457,184834,3,3761,Pulsation balloon implan,Implant of pulsation balloon
+1907,24457,184834,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+1908,24457,184834,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+1909,24457,184834,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+136135,7818,108937,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+136136,7818,108937,2,3533,Annuloplasty,Annuloplasty
+136137,7818,108937,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+136138,7818,108937,4,3614,Aortcor bypas-4+ cor art,(Aorto)coronary bypass of four or more coronary arteries
+136139,7818,108937,5,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+136140,7818,108937,6,8960,Cnt intraart bld gas mon,Continuous intra-arterial blood gas monitoring
+136141,7818,108937,7,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+136142,7818,108937,8,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+136143,7818,108937,9,2319,Surg tooth extract NEC,Other surgical extraction of tooth
+136144,7818,108937,10,9904,Packed cell transfusion,Transfusion of packed cells
+235078,88458,174348,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+235079,88458,174348,2,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+235080,88458,174348,3,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+235081,88458,174348,4,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+235082,88458,174348,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+235083,88458,174348,6,0040,Procedure-one vessel,Procedure on single vessel
+235084,88458,174348,7,0045,Insert 1 vascular stent,Insertion of one vascular stent
+235085,88458,174348,8,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+235086,88458,174348,9,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+235087,88458,174348,10,966,Entral infus nutrit sub,Enteral infusion of concentrated nutritional substances
+129846,651,110245,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+129847,651,110245,2,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+129848,651,110245,3,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+129849,651,110245,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+129850,651,110245,5,0040,Procedure-one vessel,Procedure on single vessel
+129851,651,110245,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+113821,18059,174416,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+113822,18059,174416,2,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+113823,18059,174416,3,0040,Procedure-one vessel,Procedure on single vessel
+113824,18059,174416,4,3722,Left heart cardiac cath,Left heart cardiac catheterization
+113825,18059,174416,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+113826,18059,174416,6,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+113827,18059,174416,7,9910,Inject/inf thrombo agent,Injection or infusion of thrombolytic agent
+171317,52876,190704,1,3722,Left heart cardiac cath,Left heart cardiac catheterization
+171318,52876,190704,2,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+171319,52876,190704,3,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+16265,8845,187956,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+16266,8845,187956,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+16267,8845,187956,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+16268,8845,187956,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+855,71054,146124,1,4443,Endosc control gast hem,Endoscopic control of gastric or duodenal bleeding
+856,71054,146124,2,4513,Sm bowel endoscopy NEC,Other endoscopy of small intestine
+857,71054,146124,3,4444,Transcath embo gast hem,Transcatheter embolization for gastric or duodenal bleeding
+858,71054,146124,4,4311,Percu endosc gastrostomy,Percutaneous [endoscopic] gastrostomy [PEG]
+82431,10898,105121,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+82432,10898,105121,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+82433,10898,105121,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+82434,10898,105121,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+82435,10898,105121,5,0045,Insert 1 vascular stent,Insertion of one vascular stent
+82436,10898,105121,6,0040,Procedure-one vessel,Procedure on single vessel
+82437,10898,105121,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+98045,16786,150795,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+98046,16786,150795,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+98047,16786,150795,3,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+98048,16786,150795,4,0041,Procedure-two vessels,Procedure on two vessels
+98049,16786,150795,5,0047,Insert 3 vascular stents,Insertion of three vascular stents
+98050,16786,150795,6,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+98051,16786,150795,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+98052,16786,150795,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+118630,16786,194264,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+118631,16786,194264,2,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+118632,16786,194264,3,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+118633,16786,194264,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+118634,16786,194264,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+118635,16786,194264,6,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+118636,16786,194264,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+118637,16786,194264,8,0040,Procedure-one vessel,Procedure on single vessel
+118638,16786,194264,9,0046,Insert 2 vascular stents,Insertion of two vascular stents
+118639,16786,194264,10,3721,Rt heart cardiac cath,Right heart cardiac catheterization
+118640,16786,194264,11,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+118641,16786,194264,12,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+118642,16786,194264,13,0017,Infusion of vasopressor,Infusion of vasopressor agent
+118643,16786,194264,14,0040,Procedure-one vessel,Procedure on single vessel
+118644,16786,194264,15,9904,Packed cell transfusion,Transfusion of packed cells
+164538,31122,180816,6,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+164539,31122,180816,7,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+164533,31122,180816,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+164534,31122,180816,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+164535,31122,180816,3,0040,Procedure-one vessel,Procedure on single vessel
+164536,31122,180816,4,0045,Insert 1 vascular stent,Insertion of one vascular stent
+164537,31122,180816,5,3722,Left heart cardiac cath,Left heart cardiac catheterization
+175024,31122,101961,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+175025,31122,101961,2,3722,Left heart cardiac cath,Left heart cardiac catheterization
+175026,31122,101961,3,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+175027,31122,101961,4,0040,Procedure-one vessel,Procedure on single vessel
+175028,31122,101961,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+82749,15763,105221,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+82750,15763,105221,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+82751,15763,105221,3,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+82752,15763,105221,4,0040,Procedure-one vessel,Procedure on single vessel
+82753,15763,105221,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+82754,15763,105221,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+82755,15763,105221,7,0046,Insert 2 vascular stents,Insertion of two vascular stents
+82756,15763,105221,8,9604,Insert endotracheal tube,Insertion of endotracheal tube
+82757,15763,105221,9,8962,Cvp monitoring,Central venous pressure monitoring
+82758,15763,105221,10,3891,Arterial catheterization,Arterial catheterization
+82759,15763,105221,11,0017,Infusion of vasopressor,Infusion of vasopressor agent
+82760,15763,105221,12,9904,Packed cell transfusion,Transfusion of packed cells
+99668,7828,126569,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+99670,7828,126569,3,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+99671,7828,126569,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+99672,7828,126569,5,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+99673,7828,126569,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+99674,7828,126569,7,0017,Infusion of vasopressor,Infusion of vasopressor agent
+99675,7828,126569,8,9604,Insert endotracheal tube,Insertion of endotracheal tube
+99676,7828,126569,9,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+47238,25236,145634,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+47239,25236,145634,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+47240,25236,145634,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+74871,12694,167768,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+74872,12694,167768,2,3721,Rt heart cardiac cath,Right heart cardiac catheterization
+74874,12694,167768,4,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+74875,12694,167768,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+74876,12694,167768,6,3964,Intraop cardiac pacemak,Intraoperative cardiac pacemaker
+74877,12694,167768,7,9915,Parent infus nutrit sub,Parenteral infusion of concentrated nutritional substances
+74878,12694,167768,8,966,Entral infus nutrit sub,Enteral infusion of concentrated nutritional substances
+74879,12694,167768,9,9904,Packed cell transfusion,Transfusion of packed cells
+74880,12694,167768,10,9604,Insert endotracheal tube,Insertion of endotracheal tube
+74881,12694,167768,11,9672,Cont inv mec ven 96+ hrs,Continuous invasive mechanical ventilation for 96 consecutive hours or more
+155204,28823,165105,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+155205,28823,165105,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+155206,28823,165105,3,0040,Procedure-one vessel,Procedure on single vessel
+155207,28823,165105,4,0045,Insert 1 vascular stent,Insertion of one vascular stent
+155208,28823,165105,5,3722,Left heart cardiac cath,Left heart cardiac catheterization
+155209,28823,165105,6,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+155210,28823,165105,7,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+155211,28823,165105,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+88813,11672,190919,1,3794,Implt/repl carddefib tot,"Implantation or replacement of automatic cardioverter/defibrillator, total system [AICD]"
+88814,11672,190919,2,3732,Heart aneurysm excision,Excision of aneurysm of heart
+88815,11672,190919,3,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+88816,11672,190919,4,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+88817,11672,190919,5,3734,"Exc/des hrt les,endovasc","Excision or destruction of other lesion or tissue of heart, endovascular approach"
+88818,11672,190919,6,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+88819,11672,190919,7,9672,Cont inv mec ven 96+ hrs,Continuous invasive mechanical ventilation for 96 consecutive hours or more
+88820,11672,190919,8,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+88821,11672,190919,9,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+88822,11672,190919,10,9744,Nonop remov hrt asst sys,Nonoperative removal of heart assist system
+88823,11672,190919,11,3726,Cath base invasv ep test,Catheter based invasive electrophysiologic testing
+88824,11672,190919,12,3727,Cardiac mapping,Cardiac mapping
+88825,11672,190919,13,9962,Heart countershock NEC,Other electric countershock of heart
+88826,11672,190919,14,0017,Infusion of vasopressor,Infusion of vasopressor agent
+88827,11672,190919,15,8964,Pulmon art wedge monitor,Pulmonary artery wedge monitoring
+88828,11672,190919,16,966,Entral infus nutrit sub,Enteral infusion of concentrated nutritional substances
+88829,11672,190919,17,9904,Packed cell transfusion,Transfusion of packed cells
+6582,154,111735,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+6583,154,111735,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+6584,154,111735,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+6585,154,111735,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+6586,154,111735,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+20388,11418,172277,1,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+20389,11418,172277,2,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+20390,11418,172277,3,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+42585,12186,160248,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+42586,12186,160248,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+42587,12186,160248,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+2571,24218,199535,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+2572,24218,199535,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+2573,24218,199535,4,3964,Intraop cardiac pacemak,Intraoperative cardiac pacemaker
+2574,24218,199535,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+2575,24218,199535,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+2577,24218,199535,8,3722,Left heart cardiac cath,Left heart cardiac catheterization
+2578,24218,199535,9,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+131482,19099,161595,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+131483,19099,161595,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+131484,19099,161595,3,0040,Procedure-one vessel,Procedure on single vessel
+131485,19099,161595,4,0048,Insert 4+ vasculr stents,Insertion of four or more vascular stents
+131486,19099,161595,5,3722,Left heart cardiac cath,Left heart cardiac catheterization
+131487,19099,161595,6,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+131488,19099,161595,7,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+131489,19099,161595,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+131490,19099,161595,9,4513,Sm bowel endoscopy NEC,Other endoscopy of small intestine
+228166,88731,122595,1,3614,Aortcor bypas-4+ cor art,(Aorto)coronary bypass of four or more coronary arteries
+228167,88731,122595,2,3722,Left heart cardiac cath,Left heart cardiac catheterization
+228168,88731,122595,3,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+228169,88731,122595,4,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+228170,88731,122595,5,4341,Endosc destr stomach les,Endoscopic excision or destruction of lesion or tissue of stomach
+228171,88731,122595,6,4530,Endosc destru duoden les,Endoscopic excision or destruction of lesion of duodenum
+109221,11421,100417,1,3722,Left heart cardiac cath,Left heart cardiac catheterization
+109222,11421,100417,2,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+99942,17310,168655,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+99943,17310,168655,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+99944,17310,168655,3,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+99945,17310,168655,4,0045,Insert 1 vascular stent,Insertion of one vascular stent
+99946,17310,168655,5,0040,Procedure-one vessel,Procedure on single vessel
+99947,17310,168655,6,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+99948,17310,168655,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+99949,17310,168655,8,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+99950,17310,168655,9,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+99951,17310,168655,10,0046,Insert 2 vascular stents,Insertion of two vascular stents
+99952,17310,168655,11,0040,Procedure-one vessel,Procedure on single vessel
+99953,17310,168655,12,3722,Left heart cardiac cath,Left heart cardiac catheterization
+99954,17310,168655,13,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+120965,160,161672,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+120966,160,161672,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+120967,160,161672,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+120968,160,161672,4,0045,Insert 1 vascular stent,Insertion of one vascular stent
+120969,160,161672,5,0040,Procedure-one vessel,Procedure on single vessel
+120970,160,161672,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+120971,160,161672,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+24280,10656,193922,1,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+24281,10656,193922,2,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+24282,10656,193922,3,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+24283,10656,193922,4,9907,Serum transfusion NEC,Transfusion of other serum
+96246,14496,112676,1,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+96247,14496,112676,2,3761,Pulsation balloon implan,Implant of pulsation balloon
+96248,14496,112676,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+96249,14496,112676,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+96250,14496,112676,5,0017,Infusion of vasopressor,Infusion of vasopressor agent
+96251,14496,112676,6,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+96252,14496,112676,7,9604,Insert endotracheal tube,Insertion of endotracheal tube
+96253,14496,112676,8,9815,Remov intralum trach FB,Removal of intraluminal foreign body from trachea and bronchus without incision
+96254,14496,112676,9,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+96255,14496,112676,10,8964,Pulmon art wedge monitor,Pulmonary artery wedge monitoring
+96256,14496,112676,11,9907,Serum transfusion NEC,Transfusion of other serum
+96257,14496,112676,12,9906,Coag factor transfusion,Transfusion of coagulation factors
+96258,14496,112676,13,9904,Packed cell transfusion,Transfusion of packed cells
+96259,14496,112676,14,9905,Platelet transfusion,Transfusion of platelets
+218430,67233,144344,1,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+218431,67233,144344,2,3722,Left heart cardiac cath,Left heart cardiac catheterization
+218432,67233,144344,3,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+218433,67233,144344,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+218434,67233,144344,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+218435,67233,144344,6,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+165518,91554,160747,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+165519,91554,160747,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+165520,91554,160747,3,0045,Insert 1 vascular stent,Insertion of one vascular stent
+165521,91554,160747,4,0040,Procedure-one vessel,Procedure on single vessel
+165522,91554,160747,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+165523,91554,160747,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+165524,91554,160747,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+10174,11171,199881,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+10175,11171,199881,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+10176,11171,199881,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+10177,11171,199881,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+10178,11171,199881,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+55480,17827,131142,2,3761,Pulsation balloon implan,Implant of pulsation balloon
+55481,17827,131142,3,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+55482,17827,131142,4,3721,Rt heart cardiac cath,Right heart cardiac catheterization
+55483,17827,131142,5,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+55484,17827,131142,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+55485,17827,131142,7,9961,Atrial cardioversion,Atrial cardioversion
+55486,17827,131142,8,9744,Nonop remov hrt asst sys,Nonoperative removal of heart assist system
+87837,26532,167088,1,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+87838,26532,167088,2,3722,Left heart cardiac cath,Left heart cardiac catheterization
+87839,26532,167088,3,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+87840,26532,167088,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+87841,26532,167088,5,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+87842,26532,167088,6,3995,Hemodialysis,Hemodialysis
+87843,26532,167088,7,9904,Packed cell transfusion,Transfusion of packed cells
+87844,26532,167088,8,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+25128,4776,112029,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+25129,4776,112029,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+25130,4776,112029,4,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+25131,4776,112029,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+25132,4776,112029,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+65773,18088,191740,1,3612,Aortocor bypas-2 cor art,(Aorto)coronary bypass of two coronary arteries
+65774,18088,191740,2,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+65775,18088,191740,3,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+65776,18088,191740,4,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+65777,18088,191740,5,3761,Pulsation balloon implan,Implant of pulsation balloon
+65778,18088,191740,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+33118,17578,154472,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+33119,17578,154472,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+33120,17578,154472,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+33121,17578,154472,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+33122,17578,154472,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+203793,82604,142188,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+203794,82604,142188,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+203795,82604,142188,3,0040,Procedure-one vessel,Procedure on single vessel
+203796,82604,142188,4,0045,Insert 1 vascular stent,Insertion of one vascular stent
+203797,82604,142188,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+203798,82604,142188,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+203799,82604,142188,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+107307,5037,149150,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+107308,5037,149150,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+107309,5037,149150,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+107310,5037,149150,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+107311,5037,149150,5,0046,Insert 2 vascular stents,Insertion of two vascular stents
+107312,5037,149150,6,0040,Procedure-one vessel,Procedure on single vessel
+107313,5037,149150,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+41388,23470,138691,1,3611,Aortocor bypas-1 cor art,(Aorto)coronary bypass of one coronary artery
+41389,23470,138691,2,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+41391,23470,138691,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+41392,23470,138691,5,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+41393,23470,138691,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+41394,23470,138691,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+38004,1968,152157,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+38005,1968,152157,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+38006,1968,152157,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+38007,1968,152157,5,3778,Inser temp pacemaker sys,Insertion of temporary transvenous pacemaker system
+38008,1968,152157,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+46416,19377,186655,1,3722,Left heart cardiac cath,Left heart cardiac catheterization
+46417,19377,186655,2,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+46418,19377,186655,3,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+46419,19377,186655,4,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+98703,1970,144456,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+98704,1970,144456,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+98705,1970,144456,3,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+98706,1970,144456,4,0040,Procedure-one vessel,Procedure on single vessel
+98707,1970,144456,5,0045,Insert 1 vascular stent,Insertion of one vascular stent
+98708,1970,144456,6,9672,Cont inv mec ven 96+ hrs,Continuous invasive mechanical ventilation for 96 consecutive hours or more
+98709,1970,144456,7,966,Entral infus nutrit sub,Enteral infusion of concentrated nutritional substances
+98710,1970,144456,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+98711,1970,144456,9,0331,Spinal tap,Spinal tap
+156790,32434,146004,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+156791,32434,146004,2,3721,Rt heart cardiac cath,Right heart cardiac catheterization
+156792,32434,146004,3,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+156793,32434,146004,4,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+156794,32434,146004,5,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+156795,32434,146004,6,8964,Pulmon art wedge monitor,Pulmonary artery wedge monitoring
+156796,32434,146004,7,9744,Nonop remov hrt asst sys,Nonoperative removal of heart assist system
+42187,2996,132204,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+42188,2996,132204,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+42189,2996,132204,4,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+42190,2996,132204,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+42191,2996,132204,6,9910,Inject/inf thrombo agent,Injection or infusion of thrombolytic agent
+154773,31925,144755,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+154774,31925,144755,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+154775,31925,144755,3,0045,Insert 1 vascular stent,Insertion of one vascular stent
+154776,31925,144755,4,0040,Procedure-one vessel,Procedure on single vessel
+154777,31925,144755,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+154778,31925,144755,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+80717,21946,175626,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+80718,21946,175626,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+80719,21946,175626,3,0040,Procedure-one vessel,Procedure on single vessel
+80720,21946,175626,4,0045,Insert 1 vascular stent,Insertion of one vascular stent
+80721,21946,175626,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+80722,21946,175626,6,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+80723,21946,175626,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+64705,23226,140781,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+64706,23226,140781,2,3722,Left heart cardiac cath,Left heart cardiac catheterization
+64707,23226,140781,3,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+64708,23226,140781,4,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+64709,23226,140781,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+64710,23226,140781,6,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+138471,54971,112750,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+138472,54971,112750,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+138473,54971,112750,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+138474,54971,112750,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+138475,54971,112750,5,0045,Insert 1 vascular stent,Insertion of one vascular stent
+138476,54971,112750,6,0040,Procedure-one vessel,Procedure on single vessel
+138477,54971,112750,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+32075,13244,147099,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+32076,13244,147099,2,3722,Left heart cardiac cath,Left heart cardiac catheterization
+32077,13244,147099,3,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+32078,13244,147099,4,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+32079,13244,147099,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+32080,13244,147099,6,3722,Left heart cardiac cath,Left heart cardiac catheterization
+32081,13244,147099,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+44488,7359,141630,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+44489,7359,141630,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+44490,7359,141630,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+85986,7359,164967,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+85987,7359,164967,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+85988,7359,164967,3,0045,Insert 1 vascular stent,Insertion of one vascular stent
+85989,7359,164967,4,0040,Procedure-one vessel,Procedure on single vessel
+85990,7359,164967,5,3722,Left heart cardiac cath,Left heart cardiac catheterization
+85991,7359,164967,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+85992,7359,164967,7,9604,Insert endotracheal tube,Insertion of endotracheal tube
+1839,9663,121655,1,3612,Aortocor bypas-2 cor art,(Aorto)coronary bypass of two coronary arteries
+1840,9663,121655,2,3616,2 int mam-cor art bypass,Double internal mammary-coronary artery bypass
+1841,9663,121655,3,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+1842,9663,121655,4,3722,Left heart cardiac cath,Left heart cardiac catheterization
+1843,9663,121655,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+1844,9663,121655,6,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+1845,9663,121655,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+83588,12223,189458,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+83589,12223,189458,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+83590,12223,189458,3,3950,Angio oth non-coronary,Angioplasty of other non-coronary vessel(s)
+83591,12223,189458,4,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+83592,12223,189458,5,3950,Angio oth non-coronary,Angioplasty of other non-coronary vessel(s)
+83593,12223,189458,6,0042,Procedure-three vessels,Procedure on three vessels
+83594,12223,189458,7,0048,Insert 4+ vasculr stents,Insertion of four or more vascular stents
+83595,12223,189458,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+83596,12223,189458,9,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+83597,12223,189458,10,3722,Left heart cardiac cath,Left heart cardiac catheterization
+83598,12223,189458,11,0041,Procedure-two vessels,Procedure on two vessels
+83599,12223,189458,12,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+83600,12223,189458,13,8848,Contrast arteriogram-leg,Arteriography of femoral and other lower extremity arteries
+83601,12223,189458,14,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+83602,12223,189458,15,0033,CAS w fluoroscopy,Computer assisted surgery with fluoroscopy
+67211,8384,155843,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+67212,8384,155843,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+67213,8384,155843,4,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+67214,8384,155843,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+67215,8384,155843,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+67216,8384,155843,7,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+67218,8384,155843,9,3722,Left heart cardiac cath,Left heart cardiac catheterization
+67219,8384,155843,10,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+67220,8384,155843,11,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+67221,8384,155843,12,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+129750,10177,187549,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+129751,10177,187549,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+129752,10177,187549,3,0046,Insert 2 vascular stents,Insertion of two vascular stents
+129753,10177,187549,4,0041,Procedure-two vessels,Procedure on two vessels
+129754,10177,187549,5,3722,Left heart cardiac cath,Left heart cardiac catheterization
+129755,10177,187549,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+155046,27841,149471,1,3572,Ventr septa def rep NEC,Other and unspecified repair of ventricular septal defect
+155047,27841,149471,2,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+155048,27841,149471,3,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+155049,27841,149471,4,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+155050,27841,149471,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+155051,27841,149471,6,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+155052,27841,149471,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+155053,27841,149471,8,9904,Packed cell transfusion,Transfusion of packed cells
+155054,27841,149471,9,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+224394,60353,111636,1,3768,Percutan hrt assist syst,Insertion of percutaneous external heart assist device
+224395,60353,111636,2,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+224396,60353,111636,3,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+224397,60353,111636,4,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+224398,60353,111636,5,0040,Procedure-one vessel,Procedure on single vessel
+224399,60353,111636,6,0045,Insert 1 vascular stent,Insertion of one vascular stent
+224400,60353,111636,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+224401,60353,111636,8,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+224402,60353,111636,9,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+224403,60353,111636,10,3322,Fiber-optic bronchoscopy,Fiber-optic bronchoscopy
+14886,194,124794,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+14887,194,124794,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+14888,194,124794,4,9961,Atrial cardioversion,Atrial cardioversion
+14889,194,124794,5,3778,Inser temp pacemaker sys,Insertion of temporary transvenous pacemaker system
+14890,194,124794,6,3761,Pulsation balloon implan,Implant of pulsation balloon
+14891,194,124794,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+14892,194,124794,8,9981,Hypothermia,Hypothermia (central) (local)
+14893,194,124794,9,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+70743,18370,147068,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+70744,18370,147068,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+70745,18370,147068,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+70746,18370,147068,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+91228,13252,146339,1,3722,Left heart cardiac cath,Left heart cardiac catheterization
+91229,13252,146339,2,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+91230,13252,146339,3,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+91231,13252,146339,4,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+57449,24260,192903,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+57450,24260,192903,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+57451,24260,192903,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+57452,24260,192903,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+8809,9670,129480,1,3611,Aortocor bypas-1 cor art,(Aorto)coronary bypass of one coronary artery
+8810,9670,129480,2,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+8811,9670,129480,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+8812,9670,129480,4,8857,Coronary arteriogram NEC,Other and unspecified coronary arteriography
+8813,9670,129480,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+26615,1991,165343,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+26616,1991,165343,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+26617,1991,165343,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+26618,1991,165343,5,3778,Inser temp pacemaker sys,Insertion of temporary transvenous pacemaker system
+26619,1991,165343,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+39163,13767,148914,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+39165,13767,148914,3,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+39166,13767,148914,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+39167,13767,148914,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+39168,13767,148914,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+39169,13767,148914,7,9672,Cont inv mec ven 96+ hrs,Continuous invasive mechanical ventilation for 96 consecutive hours or more
+39170,13767,148914,8,3891,Arterial catheterization,Arterial catheterization
+39171,13767,148914,9,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+39172,13767,148914,10,966,Entral infus nutrit sub,Enteral infusion of concentrated nutritional substances
+4025,456,113035,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+4026,456,113035,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+4027,456,113035,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+4028,456,113035,5,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+21217,9672,185784,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+21219,9672,185784,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+21220,9672,185784,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+21221,9672,185784,5,3761,Pulsation balloon implan,Implant of pulsation balloon
+21222,9672,185784,6,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+21223,9672,185784,7,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+21224,9672,185784,8,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+21225,9672,185784,9,3726,Cath base invasv ep test,Catheter based invasive electrophysiologic testing
+21226,9672,185784,10,9962,Heart countershock NEC,Other electric countershock of heart
+21227,9672,185784,11,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+21228,9672,185784,12,3722,Left heart cardiac cath,Left heart cardiac catheterization
+21229,9672,185784,13,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+21230,9672,185784,14,8857,Coronary arteriogram NEC,Other and unspecified coronary arteriography
+76205,10954,152377,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+76206,10954,152377,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+76207,10954,152377,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+76208,10954,152377,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+76209,10954,152377,5,0040,Procedure-one vessel,Procedure on single vessel
+76210,10954,152377,6,0045,Insert 1 vascular stent,Insertion of one vascular stent
+76211,10954,152377,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+76212,10954,152377,8,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+76213,10954,152377,9,3491,Thoracentesis,Thoracentesis
+76214,10954,152377,10,3995,Hemodialysis,Hemodialysis
+116607,10954,119548,1,3612,Aortocor bypas-2 cor art,(Aorto)coronary bypass of two coronary arteries
+116608,10954,119548,2,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+116609,10954,119548,3,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+116610,10954,119548,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+116611,10954,119548,5,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+116612,10954,119548,6,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+116613,10954,119548,7,3995,Hemodialysis,Hemodialysis
+116614,10954,119548,8,9904,Packed cell transfusion,Transfusion of packed cells
+198749,69579,119124,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+198750,69579,119124,2,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+198751,69579,119124,3,0044,Proc-vessel bifurcation,Procedure on vessel bifurcation
+198752,69579,119124,4,0042,Procedure-three vessels,Procedure on three vessels
+198753,69579,119124,5,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+198754,69579,119124,6,0059,Intravasc msmnt cor art,Intravascular pressure measurement of coronary arteries
+86359,9419,113623,1,8964,Pulmon art wedge monitor,Pulmonary artery wedge monitoring
+51064,4301,107075,3,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+51065,4301,107075,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+51066,4301,107075,5,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+51067,4301,107075,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+51068,4301,107075,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+51069,4301,107075,8,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+51070,4301,107075,9,3722,Left heart cardiac cath,Left heart cardiac catheterization
+51071,4301,107075,10,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+51072,4301,107075,11,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+132243,11727,146775,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+132244,11727,146775,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+132245,11727,146775,3,0040,Procedure-one vessel,Procedure on single vessel
+132246,11727,146775,4,0045,Insert 1 vascular stent,Insertion of one vascular stent
+132247,11727,146775,5,3722,Left heart cardiac cath,Left heart cardiac catheterization
+132248,11727,146775,6,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+132249,11727,146775,7,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+132250,11727,146775,8,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+132251,11727,146775,9,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+155075,27343,149718,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+155076,27343,149718,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+155077,27343,149718,3,0045,Insert 1 vascular stent,Insertion of one vascular stent
+155078,27343,149718,4,0040,Procedure-one vessel,Procedure on single vessel
+155079,27343,149718,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+155080,27343,149718,6,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+155081,27343,149718,7,9604,Insert endotracheal tube,Insertion of endotracheal tube
+34939,11472,142545,1,3614,Aortcor bypas-4+ cor art,(Aorto)coronary bypass of four or more coronary arteries
+34940,11472,142545,2,3722,Left heart cardiac cath,Left heart cardiac catheterization
+34941,11472,142545,3,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+34942,11472,142545,4,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+34943,11472,142545,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+34944,11472,142545,6,9604,Insert endotracheal tube,Insertion of endotracheal tube
+29570,21712,137871,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+29571,21712,137871,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+29566,21712,137871,1,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+29567,21712,137871,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+29569,21712,137871,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+5043,18131,148653,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+5044,18131,148653,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+5045,18131,148653,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+5046,18131,148653,5,3964,Intraop cardiac pacemak,Intraoperative cardiac pacemaker
+5047,18131,148653,6,9921,Inject antibiotic,Injection of antibiotic
+152525,31188,124496,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+152526,31188,124496,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+152527,31188,124496,3,0045,Insert 1 vascular stent,Insertion of one vascular stent
+152528,31188,124496,4,0040,Procedure-one vessel,Procedure on single vessel
+152529,31188,124496,5,3721,Rt heart cardiac cath,Right heart cardiac catheterization
+152530,31188,124496,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+152531,31188,124496,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+45239,4823,157864,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+45240,4823,157864,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+45241,4823,157864,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+45242,4823,157864,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+43252,10455,178035,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+43253,10455,178035,3,8854,Rt & lt heart angiocard,Combined right and left heart angiocardiography
+43254,10455,178035,4,3722,Left heart cardiac cath,Left heart cardiac catheterization
+43255,10455,178035,5,8854,Rt & lt heart angiocard,Combined right and left heart angiocardiography
+43256,10455,178035,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+90001,3032,116540,1,3611,Aortocor bypas-1 cor art,(Aorto)coronary bypass of one coronary artery
+90002,3032,116540,2,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+90003,3032,116540,3,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+90004,3032,116540,4,4011,Lymphatic struct biopsy,Biopsy of lymphatic structure
+90005,3032,116540,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+90006,3032,116540,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+90007,3032,116540,7,0024,IVUS coronary vessels,Intravascular imaging of coronary vessels
+90008,3032,116540,8,0040,Procedure-one vessel,Procedure on single vessel
+90009,3032,116540,9,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+90010,3032,116540,10,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+90011,3032,116540,11,3964,Intraop cardiac pacemak,Intraoperative cardiac pacemaker
+90012,3032,116540,12,3404,Insert intercostal cath,Insertion of intercostal catheter for drainage
+90013,3032,116540,13,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+90014,3032,116540,14,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+90015,3032,116540,15,9904,Packed cell transfusion,Transfusion of packed cells
+51814,1753,179380,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+51815,1753,179380,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+51816,1753,179380,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+51817,1753,179380,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+117029,10714,146311,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+117030,10714,146311,2,3614,Aortcor bypas-4+ cor art,(Aorto)coronary bypass of four or more coronary arteries
+117031,10714,146311,3,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+64758,21723,160485,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+64759,21723,160485,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+64760,21723,160485,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+10693,10717,136182,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+10694,10717,136182,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+10695,10717,136182,4,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+10696,10717,136182,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+10414,9950,173995,1,3794,Implt/repl carddefib tot,"Implantation or replacement of automatic cardioverter/defibrillator, total system [AICD]"
+10415,9950,173995,2,3726,Cath base invasv ep test,Catheter based invasive electrophysiologic testing
+10416,9950,173995,3,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+10418,9950,173995,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+10419,9950,173995,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+10420,9950,173995,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+10421,9950,173995,8,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+10422,9950,173995,9,9604,Insert endotracheal tube,Insertion of endotracheal tube
+79331,26592,197908,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+79332,26592,197908,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+79333,26592,197908,3,0040,Procedure-one vessel,Procedure on single vessel
+79334,26592,197908,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+79335,26592,197908,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+79336,26592,197908,6,0045,Insert 1 vascular stent,Insertion of one vascular stent
+79337,26592,197908,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+153718,27104,187894,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+153719,27104,187894,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+153720,27104,187894,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+153721,27104,187894,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+153722,27104,187894,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+153723,27104,187894,6,0040,Procedure-one vessel,Procedure on single vessel
+153724,27104,187894,7,0045,Insert 1 vascular stent,Insertion of one vascular stent
+132088,5345,132489,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+132089,5345,132489,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+132090,5345,132489,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+132091,5345,132489,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+132092,5345,132489,5,0045,Insert 1 vascular stent,Insertion of one vascular stent
+132093,5345,132489,6,0040,Procedure-one vessel,Procedure on single vessel
+14832,23778,147664,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+14833,23778,147664,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+14834,23778,147664,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+14835,23778,147664,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+119589,3555,172469,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+119590,3555,172469,2,3612,Aortocor bypas-2 cor art,(Aorto)coronary bypass of two coronary arteries
+119591,3555,172469,3,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+119592,3555,172469,4,0040,Procedure-one vessel,Procedure on single vessel
+119593,3555,172469,5,3721,Rt heart cardiac cath,Right heart cardiac catheterization
+119594,3555,172469,6,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+119595,3555,172469,7,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+119596,3555,172469,8,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+119597,3555,172469,9,9904,Packed cell transfusion,Transfusion of packed cells
+40290,20707,129310,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+40291,20707,129310,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+40292,20707,129310,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+40293,20707,129310,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+40294,20707,129310,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+19349,26595,189778,1,8964,Pulmon art wedge monitor,Pulmonary artery wedge monitoring
+19350,26595,189778,2,3891,Arterial catheterization,Arterial catheterization
+19351,26595,189778,3,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+19352,26595,189778,4,9604,Insert endotracheal tube,Insertion of endotracheal tube
+19353,26595,189778,5,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+19354,26595,189778,6,4513,Sm bowel endoscopy NEC,Other endoscopy of small intestine
+93238,6628,187556,1,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+93239,6628,187556,2,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+93240,6628,187556,3,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+93241,6628,187556,4,3722,Left heart cardiac cath,Left heart cardiac catheterization
+93242,6628,187556,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+93243,6628,187556,6,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+93244,6628,187556,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+93245,6628,187556,8,0040,Procedure-one vessel,Procedure on single vessel
+93246,6628,187556,9,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+93247,6628,187556,10,3404,Insert intercostal cath,Insertion of intercostal catheter for drainage
+93248,6628,187556,11,3964,Intraop cardiac pacemak,Intraoperative cardiac pacemaker
+93249,6628,187556,12,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+93250,6628,187556,13,3891,Arterial catheterization,Arterial catheterization
+93251,6628,187556,14,8964,Pulmon art wedge monitor,Pulmonary artery wedge monitoring
+93252,6628,187556,15,9905,Platelet transfusion,Transfusion of platelets
+93253,6628,187556,16,9907,Serum transfusion NEC,Transfusion of other serum
+4160,25060,145509,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+4161,25060,145509,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+4162,25060,145509,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+4163,25060,145509,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+33894,22248,198550,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+33895,22248,198550,3,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+33896,22248,198550,4,3722,Left heart cardiac cath,Left heart cardiac catheterization
+33897,22248,198550,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+649,98024,126482,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+650,98024,126482,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+651,98024,126482,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+163061,13033,147301,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+163062,13033,147301,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+163063,13033,147301,3,0040,Procedure-one vessel,Procedure on single vessel
+163064,13033,147301,4,0045,Insert 1 vascular stent,Insertion of one vascular stent
+163065,13033,147301,5,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+163066,13033,147301,6,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+163067,13033,147301,7,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+163068,13033,147301,8,3995,Hemodialysis,Hemodialysis
+27225,16873,138089,1,3766,Implantable hrt assist,Insertion of implantable heart assist system
+27226,16873,138089,2,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+27227,16873,138089,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+27228,16873,138089,4,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+27229,16873,138089,5,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+27230,16873,138089,6,3761,Pulsation balloon implan,Implant of pulsation balloon
+27231,16873,138089,7,3764,Remve ext hrt assist sys,Removal of external heart assist system(s) or device(s)
+27232,16873,138089,8,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+27233,16873,138089,9,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+27234,16873,138089,10,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+24718,21481,155090,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+24719,21481,155090,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+24721,21481,155090,4,3722,Left heart cardiac cath,Left heart cardiac catheterization
+24722,21481,155090,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+24723,21481,155090,6,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+24724,21481,155090,7,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+4137,4843,142702,1,3614,Aortcor bypas-4+ cor art,(Aorto)coronary bypass of four or more coronary arteries
+4138,4843,142702,2,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+4139,4843,142702,3,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+4140,4843,142702,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+4141,4843,142702,5,8857,Coronary arteriogram NEC,Other and unspecified coronary arteriography
+105473,14572,189993,1,3615,1 int mam-cor art bypass,Single internal mammary-coronary artery bypass
+105474,14572,189993,2,3613,Aortocor bypas-3 cor art,(Aorto)coronary bypass of three coronary arteries
+105475,14572,189993,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+105476,14572,189993,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+105477,14572,189993,5,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+105478,14572,189993,6,9672,Cont inv mec ven 96+ hrs,Continuous invasive mechanical ventilation for 96 consecutive hours or more
+105479,14572,189993,7,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+105480,14572,189993,8,3961,Extracorporeal circulat,Extracorporeal circulation auxiliary to open heart surgery
+105481,14572,189993,9,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+105482,14572,189993,10,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+105483,14572,189993,11,9904,Packed cell transfusion,Transfusion of packed cells
+44680,2799,103466,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+44681,2799,103466,2,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+44682,2799,103466,3,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+44683,2799,103466,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+44684,2799,103466,5,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+44685,2799,103466,6,9604,Insert endotracheal tube,Insertion of endotracheal tube
+95584,15343,116861,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+95585,15343,116861,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+95586,15343,116861,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+10223,13299,195251,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+10224,13299,195251,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+10225,13299,195251,4,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+10226,13299,195251,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+10227,13299,195251,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+97199,10229,137096,1,0066,PTCA,Percutaneous transluminal coronary angioplasty [PTCA]
+97200,10229,137096,2,0040,Procedure-one vessel,Procedure on single vessel
+97201,10229,137096,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+97202,10229,137096,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+40802,9974,189942,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+40803,9974,189942,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+40804,9974,189942,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+40805,9974,189942,5,3778,Inser temp pacemaker sys,Insertion of temporary transvenous pacemaker system
+40806,9974,189942,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+40807,9974,189942,7,9604,Insert endotracheal tube,Insertion of endotracheal tube
+40808,9974,189942,8,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+40809,9974,189942,9,9962,Heart countershock NEC,Other electric countershock of heart
+42193,23030,110044,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+42194,23030,110044,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+42195,23030,110044,4,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+42196,23030,110044,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+42197,23030,110044,6,9910,Inject/inf thrombo agent,Injection or infusion of thrombolytic agent
+42561,7671,127375,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+42562,7671,127375,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+42563,7671,127375,4,8857,Coronary arteriogram NEC,Other and unspecified coronary arteriography
+42564,7671,127375,5,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+42565,7671,127375,6,9671,Cont inv mec ven <96 hrs,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+42566,7671,127375,7,9604,Insert endotracheal tube,Insertion of endotracheal tube
+42567,7671,127375,8,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+41539,7671,117672,1,3722,Left heart cardiac cath,Left heart cardiac catheterization
+41540,7671,117672,2,8853,Lt heart angiocardiogram,Angiocardiography of left heart structures
+41541,7671,117672,3,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+123509,16888,182362,1,3965,Extracorporeal memb oxy,Extracorporeal membrane oxygenation [ECMO]
+123510,16888,182362,2,3766,Implantable hrt assist,Insertion of implantable heart assist system
+123511,16888,182362,3,3931,Suture of artery,Suture of artery
+123512,16888,182362,4,3932,Suture of vein,Suture of vein
+123513,16888,182362,5,8622,Exc wound debridement,"Excisional debridement of wound, infection, or burn"
+123514,16888,182362,6,8622,Exc wound debridement,"Excisional debridement of wound, infection, or burn"
+123515,16888,182362,7,8622,Exc wound debridement,"Excisional debridement of wound, infection, or burn"
+123516,16888,182362,8,0013,Inject/infus nesiritide,Injection or infusion of nesiritide
+123517,16888,182362,9,0012,Adm inhal nitric oxide,Administration of inhaled nitric oxide
+123518,16888,182362,10,9744,Nonop remov hrt asst sys,Nonoperative removal of heart assist system
+123519,16888,182362,11,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+123520,16888,182362,12,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+123521,16888,182362,13,3721,Rt heart cardiac cath,Right heart cardiac catheterization
+123522,16888,182362,14,8843,Contr pulmon arteriogram,Arteriography of pulmonary arteries
+123523,16888,182362,15,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+123524,16888,182362,16,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+123525,16888,182362,17,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+123526,16888,182362,18,8872,Dx ultrasound-heart,Diagnostic ultrasound of heart
+123527,16888,182362,19,3324,Closed bronchial biopsy,Closed [endoscopic] biopsy of bronchus
+123528,16888,182362,20,3324,Closed bronchial biopsy,Closed [endoscopic] biopsy of bronchus
+123529,16888,182362,21,3324,Closed bronchial biopsy,Closed [endoscopic] biopsy of bronchus
+123530,16888,182362,22,966,Entral infus nutrit sub,Enteral infusion of concentrated nutritional substances
+123531,16888,182362,23,9359,Immobiliz/wound attn NEC,"Other immobilization, pressure, and attention to wound"
+123532,16888,182362,24,4513,Sm bowel endoscopy NEC,Other endoscopy of small intestine
+123533,16888,182362,25,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+123534,16888,182362,26,9969,Cardiac rhythm conv NEC,Other conversion of cardiac rhythm
+123535,16888,182362,27,3893,Venous cath NEC,"Venous catheterization, not elsewhere classified"
+123536,16888,182362,28,3322,Fiber-optic bronchoscopy,Fiber-optic bronchoscopy
+103613,22012,148284,2,3607,Ins drug-elut coronry st,Insertion of drug-eluting coronary artery stent(s)
+103614,22012,148284,3,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+103615,22012,148284,4,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+103616,22012,148284,5,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+103617,22012,148284,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+48704,4861,183425,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+48705,4861,183425,2,3764,Remve ext hrt assist sys,Removal of external heart assist system(s) or device(s)
+48706,4861,183425,3,9672,Cont inv mec ven 96+ hrs,Continuous invasive mechanical ventilation for 96 consecutive hours or more
+48707,4861,183425,4,966,Entral infus nutrit sub,Enteral infusion of concentrated nutritional substances
+48708,4861,183425,5,0331,Spinal tap,Spinal tap
+28317,11261,176587,2,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+28318,11261,176587,3,3722,Left heart cardiac cath,Left heart cardiac catheterization
+28319,11261,176587,4,8855,Coronar arteriogr-1 cath,Coronary arteriography using a single catheter
+28320,11261,176587,5,8852,Rt heart angiocardiogram,Angiocardiography of right heart structures
+27441,13055,166572,1,3761,Pulsation balloon implan,Implant of pulsation balloon
+27443,13055,166572,3,3606,Ins nondrug elut cor st,Insertion of non-drug-eluting coronary artery stent(s)
+27444,13055,166572,4,3723,Rt/left heart card cath,Combined right and left heart cardiac catheterization
+27445,13055,166572,5,8856,Coronar arteriogr-2 cath,Coronary arteriography using two catheters
+27446,13055,166572,6,9920,Inj/inf platelet inhibit,Injection or infusion of platelet inhibitor
+27447,13055,166572,7,3722,Left heart cardiac cath,Left heart cardiac catheterization
