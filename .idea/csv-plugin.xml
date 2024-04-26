@@ -31,6 +31,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/data/processed/ami-patients-troponin-records-modified.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/data/processed/expanded-narcotics-prescriptions-with-mme-values.csv">
           <value>
             <Attribute>
@@ -122,6 +129,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/data/raw/ami-patients-with-kidney-related-diagnoses.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/raw/ami-patients-with-liver-related-diagnoses.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/results/entire-admission/p-values/differences-in-dosage-or-orders-of-various-drugs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/data/results/entire-admission/p-values/differences-in-proportions-that-received-analgesia.csv">
           <value>
             <Attribute>
@@ -151,6 +179,13 @@
           </value>
         </entry>
         <entry key="/data/results/first-five-days/p-values/differences-in-proportions-that-received-analgesia.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/results/outcomes/summarized-model-fits/nuf-19-extras-all-features-with-musts-and-age.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

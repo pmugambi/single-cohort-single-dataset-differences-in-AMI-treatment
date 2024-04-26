@@ -1,7 +1,10 @@
 treatment,conditioned-on,attribute,p-value
 aspirin,,sex,0.8045564856456989
 aspirin,,race,0.6980644857879326
+aspirin,,age,0.8399591245988665
 aspirin,stemi-diagnosis,sex,0.5822426923472891
 aspirin,stemi-diagnosis,race,0.8888982251646803
+aspirin,stemi-diagnosis,age,0.6591680524470992
 aspirin,nstemi-diagnosis,sex,0.16261532747514545
 aspirin,nstemi-diagnosis,race,0.9814608762656462
+aspirin,nstemi-diagnosis,age,0.8824533236638966

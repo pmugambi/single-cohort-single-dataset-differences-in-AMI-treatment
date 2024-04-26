@@ -3,8 +3,9 @@ import pandas as pd
 
 def compute_lab_test_averages():
     """
-
-    :return:
+    Computes the average troponin, and creatinine values by sex for all admission records.
+    Used to populate Table 1 in the manuscript
+    :return: nothing. summary files are written in ./results/summaries/
     """
     df = pd.read_csv("./data/processed/simplified-ami-patients-troponin-records.csv")
     f_df = df[df["gender"] == "f"]
@@ -107,84 +108,47 @@ def compute_lab_test_averages():
                              index=False)
 
 
-def patient_admission_statistics():
-    df = pd.read_csv("./data/analysis-v2/ami_patients_features_master.csv")
-    f_df = df[df["gender"] == "f"]
-    m_df = df[df["gender"] == "m"]
-    print("length of df = ", len(df))
-    admitted_until_day_five = df[df["admit_duration(days)"] <= 5]
-    print("length of those admitted for at most 5 days = ", len(admitted_until_day_five))
-
-    print("percentage admitted for at most 5 days = ", round((len(admitted_until_day_five) / len(df)) * 100, 2))
-
-    faudf = admitted_until_day_five[admitted_until_day_five["gender"] == "f"]
-    maudf = admitted_until_day_five[admitted_until_day_five["gender"] == "m"]
-
-    print("females admitted until day 5 = ", len(faudf))
-    print("males admitted until day 5 = ", len(maudf))
-
-    print("percentage of females admitted until day 5 = ", round((len(faudf) / len(f_df)) * 100, 2))
-    print("percentage of males admitted until day 5 = ", round((len(maudf) / len(m_df)) * 100, 2))
-
-
-def compute_population_percentages(filename, column_name, gender, save_name, in_range=False):
+def count_patients_in_hospital_per_day_by_gender_and_race(no_of_days=5):
     """
-
-    :param filename:
-    :param column_name:
-    :param gender:
-    :param save_name:
-    :param in_range:
-    :return:
+    Counts the number of patients by gender and race (i.e., White-Male, White-Female, Non-White-Male, Non-White-Female)
+    admitted for at least N days, for each of the days
+    :param no_of_days: number of days for which to compute the numbers
+    :return: a list of N (i.e., number of days) lists. each entry in the list is a 4 element list
+    [White-Male-Count, White-Female-Count, Non-White-Male-Count, Non-White-Female-Count] of the counts.
     """
-    df = pd.read_csv(filename)
-    g_df = df[df["gender"] == gender]
-
-    if in_range:
-        ranges = [15, 20, 30, 40, 50]
-        column_value_counts = g_df["age"].groupby(pd.cut(g_df.age, ranges)).count()
-    else:
-        column_value_counts = g_df[column_name].value_counts()
-    column_df = pd.DataFrame({column_name: column_value_counts.index,
-                              "counts": column_value_counts.values})
-    l = list(column_value_counts)
-    column_df["percentages"] = [round(x / sum(l) * 100, 1) for x in l]
-    print(column_df.head())
-
-    column_df.to_csv(save_name)
-
-
-# compute_population_percentages(filename="./data/feature-files/ami_patients_features_master.csv",
-#                                column_name="ethnicity", gender="m",
-#                                save_name="./data/analysis-v2/demographics-files/male_ethnicity_counts.csv")
-
-# compute_population_percentages(filename="./data/analysis-v2/ami_patients_features_master.csv",
-#                                column_name="ethnicity", gender="f",
-#                                save_name="./data/analysis-v2/demographics-files/female_ethnicity_counts.csv")
-# compute_population_percentages(filename="./data/analysis-v2/ami_patients_features_master.csv",
-#                                column_name="insurance", gender="m",
-#                                save_name="./data/analysis-v2/demographics-files/male_insurance_counts.csv")
-# compute_population_percentages(filename="./data/analysis-v2/ami_patients_features_master.csv",
-#                                column_name="insurance", gender="f",
-#                                save_name="./data/analysis-v2/demographics-files/female_insurance_counts.csv")
-
-# compute_population_percentages(filename="./data/analysis-v2/ami_patients_features_master.csv",
-#                                column_name="non_stemi?", gender="f",
-#                                save_name="./data/analysis-v2/demographics-files/female_nstemi_diagnosis_counts.csv")
-# compute_population_percentages(filename="./data/analysis-v2/ami_patients_features_master.csv",
-#                                column_name="non_stemi?", gender="m",
-#                                save_name="./data/analysis-v2/demographics-files/male_nstemi_diagnosis_counts.csv")
-
-# compute_population_percentages(filename="./data/analysis-v2/ami_patients_features_master.csv",
-#                                column_name="age", gender="f",
-#                                save_name="./data/analysis-v2/demographics-files/female_age_counts.csv", in_range=True)
-# compute_population_percentages(filename="./data/analysis-v2/ami_patients_features_master.csv",
-#                                column_name="age", gender="m",
-#                                save_name="./data/analysis-v2/demographics-files/male_age_counts.csv", in_range=True,)
+    ls = []
+    df = pd.read_csv("./data/feature-files/ami_patients_features_master.csv")
+    white_male_df = df[(df["ethnicity"] == "white") & (df["gender"] == "m")]
+    white_female_df = df[(df["ethnicity"] == "white") & (df["gender"] == "f")]
+    non_white_male_df = df[(df["ethnicity"].isin(["asian",
+                                                  "black/african american",
+                                                  "black/cape verdean",
+                                                  "hispanic or latino",
+                                                  "middle eastern",
+                                                  "multi race ethnicity",
+                                                  "other", "white - brazilian"])) & (
+                                   df["gender"] == "m")]
+    non_white_female_df = df[(df["ethnicity"].isin(["asian",
+                                                    "black/african american",
+                                                    "black/cape verdean",
+                                                    "hispanic or latino",
+                                                    "middle eastern",
+                                                    "multi race ethnicity",
+                                                    "other", "white - brazilian"])) & (
+                                     df["gender"] == "f")]
+    for i in range(1, no_of_days+1):
+        l = []
+        white_male_count = len(white_male_df[white_male_df["days-in-hosp"] >= i])
+        white_female_count = len(white_female_df[white_female_df["days-in-hosp"] >= i])
+        non_white_male_count = len(non_white_male_df[non_white_male_df["days-in-hosp"] >= i])
+        non_white_female_count = len(non_white_female_df[non_white_female_df["days-in-hosp"] >= i])
+        l.append(white_male_count)
+        l.append(non_white_male_count)
+        l.append(white_female_count)
+        l.append(non_white_female_count)
+        ls.append(l)
+    return ls
 
 
-
-
-# compute_lab_test_averages()
-
-# patient_admission_statistics()
+if __name__ == '__main__':
+    compute_lab_test_averages()

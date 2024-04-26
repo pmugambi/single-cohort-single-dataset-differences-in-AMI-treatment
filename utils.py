@@ -25,6 +25,7 @@ def male_and_female_population_ami(patients_df):
 
     return len(total_females), len(total_males)
 
+
 def count_where_value_greater_than_zero(a):
     """
     Counts number of times a value greater than zero is in the list a
@@ -37,8 +38,8 @@ def count_where_value_greater_than_zero(a):
 def mean(a):
     """
     compute the mean of a list
-    :param a: list
-    :return: mean
+    :param a: list of values
+    :return: mean of list 'a'
     """
     count = len([i for i in a if i > 0])
     try:
